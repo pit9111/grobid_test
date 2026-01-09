@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Liste préliminaire des abeilles de l'ancienne région Franche-Comté (Hymenoptera, Anthophila)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Observatoire des Abeilles</publisher>
+				<availability status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-07">2020-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Pierre</forename><surname>Terret</surname></persName>
+							<email>pierre.terret@laposte.net-jean-yves.cretin@neuf.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Office Pour les Insectes et leur Environnement de Franche-Comté (OPIE-FC)</orgName>
+								<address>
+									<addrLine>7, rue Voirin</addrLine>
+									<postCode>2500</postCode>
+									<settlement>Besançon -</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Observatoire des Abeilles (OA) -68, rue du Onze Novembre</orgName>
+								<address>
+									<postCode>59148</postCode>
+									<settlement>Flines-lez-Raches -</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dominique</forename><surname>Malécot</surname></persName>
+							<email>dominique.malecot@gmail.com-dge-davidgenoud@orange.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Office Pour les Insectes et leur Environnement de Franche-Comté (OPIE-FC)</orgName>
+								<address>
+									<addrLine>7, rue Voirin</addrLine>
+									<postCode>2500</postCode>
+									<settlement>Besançon -</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Observatoire des Abeilles (OA) -68, rue du Onze Novembre</orgName>
+								<address>
+									<postCode>59148</postCode>
+									<settlement>Flines-lez-Raches -</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Genoud</surname></persName>
+							<idno type="ORCID">0000-0001-8564-040X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Office Pour les Insectes et leur Environnement de Franche-Comté (OPIE-FC)</orgName>
+								<address>
+									<addrLine>7, rue Voirin</addrLine>
+									<postCode>2500</postCode>
+									<settlement>Besançon -</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Observatoire des Abeilles (OA) -68, rue du Onze Novembre</orgName>
+								<address>
+									<postCode>59148</postCode>
+									<settlement>Flines-lez-Raches -</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Éric</forename><surname>Dufrêne</surname></persName>
+							<idno type="ORCID">0000-0001-8897-5512</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Matthieu</forename><surname>Aubert</surname></persName>
+							<idno type="ORCID">0000-0003-2713-9371</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Office Pour les Insectes et leur Environnement de Franche-Comté (OPIE-FC)</orgName>
+								<address>
+									<addrLine>7, rue Voirin</addrLine>
+									<postCode>2500</postCode>
+									<settlement>Besançon -</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Observatoire des Abeilles (OA) -68, rue du Onze Novembre</orgName>
+								<address>
+									<postCode>59148</postCode>
+									<settlement>Flines-lez-Raches -</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jean-Yves</forename><surname>Cretin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Office Pour les Insectes et leur Environnement de Franche-Comté (OPIE-FC)</orgName>
+								<address>
+									<addrLine>7, rue Voirin</addrLine>
+									<postCode>2500</postCode>
+									<settlement>Besançon -</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Liste préliminaire des abeilles de l'ancienne région Franche-Comté (Hymenoptera, Anthophila)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Osmia</title>
+						<idno type="ISSN">2727-3806</idno>
+						<imprint>
+							<publisher>Observatoire des Abeilles</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="page" from="11" to="30"/>
+							<date type="published" when="2020-07"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1D9DFDF8D4190D439E4333358F7F2385</idno>
+					<idno type="DOI">10.47446/osmia8.2</idno>
+					<note type="submission">Submitted on 3 Dec 2020 Distributed under a Creative Commons Attribution 4.0 International License</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-19T09:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=0, endPage=2, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=null, sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Hymenoptera</term>
+					<term>Anthophiles</term>
+					<term>inventaire</term>
+					<term>listes départementales Hymenoptera</term>
+					<term>Anthophila</term>
+					<term>bee inventory</term>
+					<term>species list. OSMIA N°8</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>HAL is a multidisciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Première liste des espèces d’abeilles de la région Centre-Val de Loire (France) déclinée par départements sur la période 1990-2021 (Hymenoptera : Apoidea : Anthophila)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Observatoire des Abeilles</publisher>
+				<availability status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-12-15">15 December 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Philippe</forename><surname>Bourlet</surname></persName>
+							<idno type="ORCID">0000-0002-8800-1061</idno>
+						</author>
+						<title level="a" type="main">Première liste des espèces d’abeilles de la région Centre-Val de Loire (France) déclinée par départements sur la période 1990-2021 (Hymenoptera : Apoidea : Anthophila)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Osmia</title>
+						<idno type="ISSN">2727-3806</idno>
+						<imprint>
+							<publisher>Observatoire des Abeilles</publisher>
+							<biblScope unit="volume">12</biblScope>
+							<biblScope unit="page" from="37" to="46"/>
+							<date type="published" when="2024-12-15">15 December 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F7EA89E29973AE15FBD83FE0E57288A7</idno>
+					<idno type="DOI">10.47446/osmia12.6</idno>
+					<note type="submission">Received | 18 December 2022 || Accepté • Accepted | 13 December 2024 || Publié (en ligne) •</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-19T09:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=0, endPage=2, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=null, sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Osmia est une revue en libre accès publiée par l'Observatoire des Abeilles (France) sous licence Creative Commons Attribution International CC BY 4.0 qui autorise la reproduction et la diffusion du document, à condition que la source soit explicitement citée.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

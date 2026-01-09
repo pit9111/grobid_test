@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PlantCoopLab, coopérer avec les plantes pour une alimentation durable</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>EDP Sciences</publisher>
+				<availability status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-01">2024-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Sylvie</forename><surname>Pouteau</surname></persName>
+							<email>sylvie.pouteau@inrae.fr</email>
+							<idno type="ORCID">0000-0003-1667-052X</idno>
+							<affiliation key="aff0">
+								<orgName type="laboratory">UMR SADAPT</orgName>
+								<orgName type="institution">INRAE</orgName>
+								<address>
+									<settlement>Philosophie Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aurélie</forename><surname>Javelle</surname></persName>
+							<idno type="ORCID">0000-0001-9974-2423</idno>
+							<affiliation key="aff1">
+								<orgName type="laboratory">UMR Innovation</orgName>
+								<address>
+									<addrLine>SupAgro Montpellier</addrLine>
+									<settlement>Ethnologie Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sébastien</forename><surname>Mouret</surname></persName>
+							<idno type="ORCID">0000-0002-3782-9125</idno>
+							<affiliation key="aff2">
+								<orgName type="laboratory">UMR Innovation</orgName>
+								<orgName type="institution">INRAE</orgName>
+								<address>
+									<settlement>Sociologie Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nicole</forename><surname>Pignier</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Sémiotique</orgName>
+								<orgName type="institution" key="instit1">Université de Limoges</orgName>
+								<orgName type="institution" key="instit2">UR Espaces humains et interactions culturelles</orgName>
+								<address>
+									<settlement>Limoges</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Florence</forename><surname>Pinton</surname></persName>
+							<idno type="ORCID">0000-0002-7383-6971</idno>
+							<affiliation key="aff4">
+								<orgName type="laboratory">UMR SADAPT</orgName>
+								<orgName type="institution">AgroParisTech</orgName>
+								<address>
+									<settlement>Sociologie Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jocelyne</forename><surname>Porcher</surname></persName>
+							<idno type="ORCID">0000-0002-2280-7628</idno>
+							<affiliation key="aff5">
+								<orgName type="laboratory">UMR Innovation</orgName>
+								<orgName type="institution">INRAE</orgName>
+								<address>
+									<settlement>Sociologie Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PlantCoopLab, coopérer avec les plantes pour une alimentation durable</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Natures Sciences Sociétés</title>
+						<title level="j" type="abbrev">Nat. Sci. Soc.</title>
+						<idno type="ISSN">1240-1307</idno>
+						<idno type="eISSN">1765-2979</idno>
+						<imprint>
+							<publisher>EDP Sciences</publisher>
+							<biblScope unit="volume">32</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="98" to="104"/>
+							<date type="published" when="2024-01"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">649A18142DA077902F0008C70A301003</idno>
+					<idno type="DOI">10.1051/nss/2024028</idno>
+					<note type="submission">Submitted on 3 Sep 2024 Distributed under a Creative Commons Attribution 4.0 International License</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-19T09:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=0, endPage=2, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=null, sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>agriculture</term>
+					<term>food sustainability</term>
+					<term>plant humanities</term>
+					<term>plant labor</term>
+					<term>transdisciplinarity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>HAL is a multidisciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

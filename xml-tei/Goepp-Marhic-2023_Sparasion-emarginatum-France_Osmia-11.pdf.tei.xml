@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sparasion emarginatum Kieffer, 1906, espèce nouvelle pour la faune de France (Hymenoptera : Scelionidae)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Observatoire des Abeilles</publisher>
+				<availability status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-03-25">25 March 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Téo</forename><surname>Goepp</surname></persName>
+							<idno type="ORCID">0000-0001-8713-4498</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Erwann</forename><surname>Marhic</surname></persName>
+							<idno type="ORCID">0000-0002-5102-6687</idno>
+						</author>
+						<title level="a" type="main">Sparasion emarginatum Kieffer, 1906, espèce nouvelle pour la faune de France (Hymenoptera : Scelionidae)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Osmia</title>
+						<idno type="ISSN">2727-3806</idno>
+						<imprint>
+							<publisher>Observatoire des Abeilles</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="page" from="15" to="18"/>
+							<date type="published" when="2023-03-25">25 March 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">00E961D348114A4BCEBFDBF94C36CD8B</idno>
+					<idno type="DOI">10.47446/osmia11.3</idno>
+					<note type="submission">Submitted on 26 Mar 2023 Distributed under a Creative Commons Attribution 4.0 International License Received | 04 January 2022 || Accepté • Accepted | 22 March 2023</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-19T09:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=0, endPage=2, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=null, sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>HAL is a multidisciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>

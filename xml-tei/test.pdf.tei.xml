@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ouvrages en débat</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>EDP Sciences</publisher>
+				<availability status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-01">2024-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Ouvrages en débat</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Natures Sciences Sociétés</title>
+						<title level="j" type="abbrev">Nat. Sci. Soc.</title>
+						<idno type="ISSN">1240-1307</idno>
+						<idno type="eISSN">1765-2979</idno>
+						<imprint>
+							<publisher>EDP Sciences</publisher>
+							<biblScope unit="volume">32</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="105" to="122"/>
+							<date type="published" when="2024-01"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">987DA30A8D444CD11472BA075FE26A55</idno>
+					<idno type="DOI">10.1051/nss/2024023</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-19T09:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=0, endPage=2, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=null, sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+	</text>
+</TEI>
