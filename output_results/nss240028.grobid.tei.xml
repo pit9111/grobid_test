@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PlantCoopLab, coopérer avec les plantes pour une alimentation durable</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>EDP Sciences</publisher>
+				<availability status="restricted">
+					<licence>CC-BY</licence>
+				</availability>
+				<date type="published" when="2024-09-03">3 Sep 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Sylvie</forename><surname>Pouteau</surname></persName>
+							<email>sylvie.pouteau@inrae.fr</email>
+							<idno type="ORCID">0000-0003-1667-052X</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">coopérer avec les</orgName>
+								<orgName type="department" key="dep2">Philosophie</orgName>
+								<orgName type="department" key="dep3">INRAE</orgName>
+								<orgName type="institution">UMR SADAPT</orgName>
+								<address>
+									<settlement>Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aurélie</forename><surname>Javelle</surname></persName>
+							<idno type="ORCID">0000-0001-9974-2423</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Ethnologie</orgName>
+								<orgName type="laboratory">UMR Innovation</orgName>
+								<orgName type="institution">SupAgro Montpellier</orgName>
+								<address>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sébastien</forename><surname>Mouret</surname></persName>
+							<idno type="ORCID">0000-0002-3782-9125</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Sociologie, INRAE</orgName>
+								<orgName type="laboratory">UMR Innovation</orgName>
+								<address>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nicole</forename><surname>Pignier</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">UR Espaces humains et interactions culturelles</orgName>
+								<orgName type="laboratory">Sémiotique</orgName>
+								<orgName type="institution">Université de Limoges</orgName>
+								<address>
+									<settlement>Limoges</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Florence</forename><surname>Pinton</surname></persName>
+							<idno type="ORCID">0000-0002-7383-6971</idno>
+							<affiliation key="aff4">
+								<orgName type="department">Sociologie, AgroParisTech</orgName>
+								<orgName type="laboratory">UMR SADAPT</orgName>
+								<address>
+									<settlement>Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jocelyne</forename><surname>Porcher</surname></persName>
+							<idno type="ORCID">0000-0002-2280-7628</idno>
+							<affiliation key="aff5">
+								<orgName type="department">Sociologie, INRAE</orgName>
+								<orgName type="institution">UMR Innovation</orgName>
+								<address>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Natures Sciences Sociétés</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PlantCoopLab, coopérer avec les plantes pour une alimentation durable</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Natures Sciences Sociétés</title>
+						<title level="j" type="abbrev">Nat. Sci. Soc.</title>
+						<idno type="ISSN">1240-1307</idno>
+						<idno type="eISSN">1765-2979</idno>
+						<imprint>
+							<publisher>EDP Sciences</publisher>
+							<biblScope unit="volume">32</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="98" to="104"/>
+							<date type="published" when="2024-09-03">3 Sep 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">649A18142DA077902F0008C70A301003</idno>
+					<idno type="DOI">10.1051/nss/2024028</idno>
+					<note type="submission">Submitted on</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-01-09T15:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">311e804</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>agriculture</term>
+					<term>alimentation durable</term>
+					<term>humanités végétales</term>
+					<term>travail des plantes</term>
+					<term>transdisciplinarité agriculture</term>
+					<term>food sustainability</term>
+					<term>plant humanities</term>
+					<term>plant labor</term>
+					<term>transdisciplinarity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>une alimentation durable.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable</head><p>Repenser notre relation avec la nature peine à être saisi comme un levier de la transition écologique <ref type="foot" target="#foot_0">1</ref> . Autant le statut des animaux dans les systèmes productifs fait l'objet de débats, autant la définition de la durabilité alimentaire n'implique aucune considération particulière pour les plantes. Le projet PlantCoopLab trouve son inspiration dans ce constat. Il fait sienne l'analyse des humanités environnementales qui, depuis presque deux décennies, mettent en avant la nécessité de revoir notre posture vis-à-vis de la nature <ref type="bibr" target="#b39">(Schmidt et al., 2020)</ref>. Elles appellent à renouveler notre regard et à intensifier nos relations concrètes avec la nature de façon appréciative et différenciée. Né en Australie, ce mouvement s'est rapidement répandu dans les pays anglo-saxons puis en Europe, donnant lieu à une revue dédiée et de nombreux ouvrages 2 . Un peu plus tôt, les éthiques environnementales, elles aussi apparues dans les nouveaux mondes, États-Unis et Australie, avaient cherché à repenser le statut de la nature et son « bon usage » <ref type="bibr" target="#b18">(Larrère et Larrère, 1997)</ref>. En France, ces réflexions de fond ont encore du mal à trouver leur place. De façon plus générale, la différenciation de la nature audelà de l'animal progresse très lentement.</p><p>Le XXI e siècle semble cependant amorcer un « tournant végétal », quoiqu'encore diffus, qui appelle à revisiter le statut et les représentations multiples des plantes. Cette évolution récente est source de nouveaux questionnements éthiques <ref type="bibr" target="#b30">(Pouteau, 2014 ;</ref><ref type="bibr">Kallhoff et al., 2018 ;</ref><ref type="bibr" target="#b9">Hiernaux, 2021)</ref> et incite à suivre le parti des « humanités végétales » en examinant notre posture vis-à-vis de cette forme de vie <ref type="bibr" target="#b36">(Ryan, 2012)</ref>. En phase avec ces évolutions, le projet PlantCoopLab introduit cette interrogation au sein même des activités de production nourricière où se jouent majoritairement les relations avec les plantes. Ancré dans une démarche inter-et transdisciplinaire, son parti est de rapprocher des thématiques scientifiques émergentes et des acteurs de terrain qui visent à changer de modèle de travail avec la nature, notamment avec les plantes pour une alimentation plus durable. Dans cet aperçu, nous retraçons les apports qui ont structuré les premières avancées de PlantCoopLab 3 dans une optique de fédérer un réseau de travail élargi <ref type="bibr" target="#b34">(Pouteau et al., 2022)</ref>.</p><p>Considérer les plantes dans le contexte de l'agriculture et de l'alimentation L'avènement des productions végétales, initié au XIX e siècle et amplifié après la Seconde Guerre mondiale, est caractérisé par une logique utilitariste de fonctionnement industriel et d'optimisation technique dont sont exclus les questionnements sur le statut des plantes. Actuellement, même lorsqu'il s'agit d'infléchir ce régime productiviste et de mettre en avant des objectifs d'écologisation de l'agriculture, les êtres végétaux restent souvent assignés au rang d'objets, de services ou de simples matériaux, comme le montre par exemple un document d'orientation d'INRAE <ref type="bibr" target="#b43">(Vilotte et al., 2016)</ref>. Tout se passe comme si, dans la sphère productive, les rapports avec les plantes ne pouvaient être pensés que comme des relations fonctionnelles, instrumentales et utilitaires <ref type="bibr" target="#b1">(Beltrame et al., 1980)</ref>. La technicisation entretient par ailleurs l'idée d'une plantemachine <ref type="bibr" target="#b2">(Bonneuil et Thomas, 2009 ;</ref><ref type="bibr" target="#b4">Gerber et Hiernaux, 2022)</ref>.</p><p>Le même statut appliqué à l'animal est par contre de plus en plus contesté, certains allant jusqu'à condamner toute forme d'élevage et à exiger la « libération animale » <ref type="bibr" target="#b28">(Porcher, 2011)</ref>. Le rejet de la production animale au nom de la morale <ref type="bibr">(Traïni, 2012)</ref> tend en contrepartie à justifier l'exploitation végétale comme un mal nécessaire pour notre survie. Le report de la production animale vers le végétal contribue à occulter les contraintes productives, qui continuent de s'exercer sur les plantes sans prise de recul, et la nécessaire complémentarité entre l'agriculture et l'élevage. Ces contraintes sont aussi accentuées par la recherche de nouvelles sources d'énergies renouvelables et de biomatériaux, qui envisage les plantes comme des ressources de substitution. Ainsi, le terme « protéines végétales » tend à devenir un critère d'alimentation durable, contribuant à assimiler toujours plus les plantes à des matériaux livrés à toutes les formes d'exploitation. À l'encontre de cette tendance, accorder une considération qualitative aux êtres végétaux peut-il infléchir les pratiques nécessaires pour fournir des nourritures durables ? Avec cette question, notre proposition est de considérer deux aspects : les plantes sont des êtres vivants au même titre que les animaux, bien que de façon différente <ref type="bibr" target="#b30">(Pouteau, 2014)</ref> ; et la production de nourritures végétales découle d'interrelations entre elles et les humains, ce qui n'impose pas un rapport d'exploitation instrumental <ref type="bibr" target="#b17">(Kazic, 2022)</ref>. De multiples pratiques agroécologiques porteuses de nouvelles sensibilités explorent déjà cette voie. Ce mouvement multiforme inspire deux axes d'innovation. En premier, reconnaître que les plantes poursuivent un « bien » ou des intérêts qui leur sont propresque l'on peut traduire en termes de télos, d'épanouissement, de santé ou de bienêtre. En second, montrer comment le travail humain oeuvre avec et pour ce bien végétal, cela de façon profitable et non plus dégradante, c'est-à-dire avec des bénéfices réciproques. Notre fil conducteur est d'élargir la définition de la durabilité alimentaire en regardant les plantes comme des êtres dignes de considération et de relation, tout en faisant ressortir les compétences et savoirs pratiques qu'implique cette reconnaissance.</p><p>Changer de cadre : une entrée par le « travail » Raisons de s'intéresser aux relations de travail avec les plantes Aborder les relations avec les plantes sous l'angle du travail permet de revisiter à la fois leur statut et celui des pratiques humaines, ce qui présente plusieurs intérêts. Le premier est de s'interroger sur les différences de statut accordé aux plantes en Occident entre sphère privée et sphère productive. Du côté de la première et des loisirs, il existe une littérature abondante sur les relations sensibles, esthétiques, symboliques, morales ou spirituelles avec les plantes <ref type="bibr" target="#b19">(Lieutaghi, 1983 ;</ref><ref type="bibr" target="#b0">Archambault, 2016 ;</ref><ref type="bibr" target="#b14">Kallhoff et Schörgenhumer, 2017 ;</ref><ref type="bibr" target="#b23">Odeh et Guy, 2017)</ref>. Toute cette littérature tend à leur reconnaître une forme de subjectivité, cette tendance étant également soutenue par la (re)découverte des facultés végétales (sensibilité, communication, intelligence, etc.) au cours des deux dernières décennies <ref type="bibr" target="#b7">(Hall, 2011 ;</ref><ref type="bibr" target="#b20">Mancuso et Viola, 2018 ;</ref><ref type="bibr" target="#b41">Tassin, 2016)</ref>. Pourquoi cette reconnaissance de subjectivité ne pourrait-elle pas s'appliquer à la sphère productive ?</p><p>Un second intérêt est de mettre l'accent sur la dimension active des relations dans l'exercice du travail. Cela permet d'objectiver la subjectivité élusive des plantes en reconnaissant qu'elles possèdent une forme d'activité, ou d'agir particulier, qui peut être dénommée « agentivité ». Comment définir cette agentivité végétale dans le contexte du travail ? À quelles conditions peut-on l'assimiler à une forme de travail de la part des plantes ? Un troisième intérêt est d'aborder la production nourricière en tant que résultat, non plus du seul travail humain, mais d'une « co-opération » des humains et des plantes, au sens où chacun opère selon ses dispositions propres. Qu'apporte l'idée de co-opération ainsi définie pour requalifier, d'un côté le travail agricole et, de l'autre, l'agentivité végétale, qui ensemble permettent de fournir des nourritures ? Un quatrième intérêt est de repenser l'évolution des productions végétales sous l'angle d'un rapport professionnel à la nature. C'est ce que Michèle Salmona (1986) traduit dans ses recherches sur le travail paysan par l'expression « travailleurs de la nature ». Une façon d'éclairer la crise de sens qui traverse le monde agricole est de mettre à l'épreuve la réduction de l'être humain au travail à une simple fonction productive, elle-même découlant d'une vision uniquement utilitariste de ce qui nous nourrit. La qualité de travailleur de la nature peut-elle contribuer à revaloriser des métiers de plus en plus déconsidérés au regard du « travail-capital » tel qu'il a été critiqué par <ref type="bibr">André Gorz (2004</ref><ref type="bibr" target="#b6">[1988]</ref>) ? Enfin, un cinquième intérêt tient au fait que l'écologisation des pratiques agricoles, dans les politiques appelant à « l'agroécologie », est fondée sur une « mise au travail de la nature »ce dont témoigne le foisonnement de métaphores autour du « travail de la nature » (idées de s'inspirer des plantes, de « fonder des solutions sur la nature »). Cela implique de prendre en compte des pans entiers du travail, écartés ou ignorés jusqu'alors. L'idée de co-opérer ou de faire « avec » les plantes permet de décliner différentes visions de la durabilité dans des agricultures plurielles ; visions qui peuvent aller de la maîtrise du fonctionnement végétal (« faire [faire] ») à l'imitation des performances (« faire [comme] ») jusqu'au lâcher prise (« [laisser] faire »). À la marge des zones cultivées, les cueilleurs professionnels de plantes dites « sauvages » adoptent aussi diverses stratégies pour s'inscrire dans les dynamiques écologiques <ref type="bibr" target="#b27">(Pinton, 2022)</ref>. La reconnaissance d'une coopération humain/plante, telle que définie plus haut, peut-elle construire une nouvelle vision de la durabilité alimentaire ?</p><p>Travail « vivant » : penser le travail humain et au-delà de l'humain La co-opération humain/plante amène à repenser conjointement le travail humain et son extension au-delà de l'humain. Nous privilégions pour cela l'idée de « travail vivant », en nous inspirant notamment de deux pensées : celle <ref type="bibr">de Gorz (2004</ref><ref type="bibr">de Gorz ( [1988]]</ref>) qui le définit comme l'activité humaine de création et de coopération qui produit du savoir ; et celle de Christophe Dejours (2009) qui l'aborde dans le contexte de la clinique du travail en tant que psychodynamique du travail (PDT). Ce dernier se fonde sur le rapport vivant du sujet au travail, objectivé de façon manifeste dans la souffrance et le plaisir au travail. Le rapport vivant s'exprime dans l'écart entre le travail prescrit et le travail réel, ce que Dejours définit comme le « travailler ». Pour la PDT, le travail est là où les procédures ne sont pas. Travailler, c'est produire mais c'est aussi se construire et vivre ensemble. Cette construction/transformation de soi s'opère par le truchement de la reconnaissance au travail, qui conditionne aussi la santé au travail. Nous reviendrons sur cette dimension relationnelle du travail vivant, particulièrement importante dans les métiers du soin.</p><p>Quoique de manière paradoxale en première analyse, le recours à la PDT et à la problématique du travail se justifie dans notre réflexion par le succès de son extension aux animaux domestiques. Les travaux pionniers de Jocelyne Porcher et de son équipe, d'abord dans le cadre de l'ANR COW, ont démontré clairement que les animaux travaillent au sens où ils s'investissent subjectivement dans le travail et manifestent un « travailler » pour combler l'écart entre réel et prescrit <ref type="bibr" target="#b22">(Mouret, 2018 ;</ref><ref type="bibr" target="#b29">Porcher, 2018)</ref>. Dans le cas des plantes, cette démonstration est loin d'aller de soi. Nous ne pouvons préjuger d'emblée qu'elles ont un engagement subjectif ni même affirmer qu'elles « travaillent » effectivement. Néanmoins, la PDT peut nous aider à discerner différentes composantes de l'agentivité des plantes, laquelle exprime de facto une forme de subjectivité. La PDT permet aussi de s'interroger sur les impensés du travail avec elles puisque le « travailler » paysan repose nécessairement sur une interrelation avec des plantes vivantes, et non avec des matériaux.</p><p>Entre métaphore, spéculation et prisme : quel « travail » des plantes ?</p><p>Pris littéralement, le travail des plantes peut conduire à une lecture anthropomorphique et spéculative en leur attribuant une quasi-personnalité. À l'inverse, il peut être interprété comme une réduction à un paramètre physique. Pour écarter ces deux écueils, nous précisons qu'en première approche, le terme « travail » signifie que la vie des plantes s'exerce par des activités qui mettent en oeuvre des puissances ou forces de croissance et de (ré)génération. Ce travail inclut le fait de se construire soi-même (croître ou « pousser »), de produire des biens et des services (fruits, biodiversité, etc.) et d'interagir avec d'autres (humains et autres êtres vivants). Il est donc possible de poser au moins par hypothèse l'existence d'un « travailler » végétal, c'est-à-dire une capacité propre d'ajustement à la co-opération agricole. Pour soutenir cette perspective, nous soulignons le besoin de définir les limites des métaphores : d'une part, de différencier le travailler potentiel des plantes de celui des animaux et des êtres humains ; d'autre part, de préciser la composante relationnelle du travailler, qui s'exprime dans la dynamique du soin.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dégager le travailler des plantes d'une surdétermination animale</head><p>Le « travailler » des plantes doit amener à redécouvrir leurs spécificités, enjeu d'autant plus difficile que les systèmes de production ont été élaborés en les considérant selon le modèle théorique de l'animal, comme des êtres fermés, circonscrits dans l'espace et le temps, que l'on nourrit pour produire un résultat <ref type="bibr" target="#b30">(Pouteau, 2014)</ref>. Toutefois, « nourrir » une plante ne peut être que métaphorique puisqu'elle n'a pas de tractus digestif et qu'elle n'ingère pas de nourriture à proprement parler. Quand elle est « nourrie » par des nitrates d'origine synthétique, la plante peut donc être considérée comme un être hors-sol ; le sol étant lui aussi réduit à un simple support. Elle est alors conditionnée par un schéma zoocentré, qui l'inscrit dans un régime catabolique et lui impose une séparation vis-à-vis d'un « extérieur ». La plante n'est plus considérée comme un processus en croissance existant par les entrelacs avec son milieu, qui floutent les frontières entre dedans et dehors. Cet exemple illustre les difficultés à sortir des cadres posés depuis deux siècles par les sciences du végétal. Pour contourner ces difficultés et ne pas soumettre la définition du travailler végétal à celle du travailler animal, des redéfinitions sont nécessaires. Comment rendre compte du caractère ouvert des plantes, caractère spécifique par rapport aux animaux, au sein d'un lieu de production nourricière ? Comment concilier les différences de temporalités entre une plante en développement et des objectifs de production ? Le système racinaire peut-il garder son sens d'entrelacs avec le sol dans des cultures hors-sol, majoritaires dans le domaine des productions maraîchères ? Doit-on continuer de « nourrir » les plantes, et sous quelles conditions ?</p><p>Intégrer les dynamiques du soin : l'attention à l'autre et sa reconnaissance La composante relationnelle du travailler « avec » les plantes s'apparente à un rapport de soin dans ses dimensions pratiques et émotionnelles. Or, la dynamique professionnelle du soin n'a de sens qu'à condition que le patient soigné soit capable d'apporter une réponse au soignant. Dans le cas des plantes, l'idée de soin prodigué comme à un patient moral suppose donc d'admettre qu'elles répondent aux soins qu'on leur porte <ref type="bibr" target="#b40">(Schörgenhumer, 2018)</ref>. Ce présupposé justifie, par exemple, l'idée d'accueillir la part « sauvage » des plantes, laissant s'exprimer leur autonomie et leur agentivité propres <ref type="bibr" target="#b10">(Javelle, 2020)</ref>. L'attention, l'observation et la sensibilité sont alors mises au service d'une forme d'agir qui consiste à ajuster qualitativement l'intervention, dans une forme d'écoute, plutôt qu'à imposer des conditions contraignantes. Le soin incorpore aussi une volonté de non-puissance et de retenue, ce qui peut aller jusqu'à la notion de « non-travail », par exemple dans le cas du « non-labour » ou du nondésherbage de certains secteurs de culture. Dans le contexte productif, l'idée de « faire avec » ou de « laisser faire » rend ainsi disponible à la perception de ce qui est fait pour nous par les plantes de diverses manières. Par exemple, l'activité de régénération et de réparation végétales s'observe dans la restauration de sols sains par des intercultures autant que dans la capacité de repousse des plantes « spontanées » attendue par les cueilleurs professionnels. Pour ces derniers, une cueillette durable et responsable est entièrement conditionnée par cette capacité à coopérer de façon régénérative avec le vivant <ref type="bibr" target="#b12">(Julliand et al., 2019)</ref>.</p><p>L'idée de soin de la nature, qui est aujourd'hui remise à l'honneur par les pratiques et préceptes de l'agroécologie et par les éthiques du care, était déjà présente dans les écrits d'André-Georges <ref type="bibr" target="#b8">Haudricourt (1962)</ref>. Dans un texte ethnobotanique bien connu, il écrit : « domestication des cultures et élevage des animaux provoquent des changements de relation vis-à-vis des animaux et des plantes ». Par contraste avec nos ancêtres, les chasseurscueilleurs, il précise que : « L'humain n'est plus prédateur et consommateur mais il assiste, protège, coexiste avec les espèces qu'il a domestiquées ». Il suggère alors de nouveaux rapports « très amicaux » et souligne que la diversité des mondes animaux et végétaux rend impossible l'équivalence qualitative des relations avec les uns et les autres. Ces relations sensibles et amicales nous semblent être un dénominateur important à prendre en compte dans l'écologisation des pratiques et la reconnaissance des spécificités du travailler paysan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changer de posture : des méthodologies fondées sur l'expérience</head><p>La reconnaissance du travailler des plantes et de ce qu'elles produisent nous apparaît comme un des ressorts de notre réengagement responsable vis-à-vis des nourritures. Une des formes de reconnaissance envers elles pourrait s'exprimer par une juste appréciation des nourritures qu'elles nous offrent. Dans l'approche que nous proposons, le défi est de nous départir d'une interprétation mécaniste et fonctionnaliste, sans pour autant tomber dans le travers d'une lecture spéculative. Changer de posture implique d'analyser les pratiques de recherche autant que les cadres théoriques qui les soustendent. Pour pouvoir considérer le rapport à l'autre sans en faire un objet détaché de nous et jaugé à travers une grille disciplinaire, il nous paraît nécessaire d'accorder une plus grande importance à la façon d'observer les plantes et d'interagir avec elles. Pour cela, plusieurs changements méthodologiques sont nécessaires.</p><p>Une première nécessité est de pratiquer l'interdisciplinarité, qui permet de déplacer les frontières de l'observation et de chercher à rendre fongibles des grilles de compréhension qui ont été construites ; cela dans des démarches réductrices qui effacent la dimension naturelle des objets étudiés. Ainsi, considérer les plantes comme des objets techniques ne découle pas de leur nature, mais de notre intentionnalité instrumentale et utilitariste. De plus, selon les contextes et disciplines, les catégories utilisées n'ont souvent pas les mêmes contours. Par exemple, la catégorie de « déchet » peut être conçue comme une déperdition, un excédent ou une ressource. De même, la catégorie de « sauvage » peut correspondre à l'indompté (impropre à la culture), au non-amélioré (conforme au type d'origine) ou au naturel (inviolé par l'humain).</p><p>Une deuxième nécessité est de nous positionner dans les humanités végétales avec une base phénoménologique et sémiotique <ref type="bibr" target="#b24">(Pignier, 2018 ;</ref><ref type="bibr" target="#b10">Javelle, 2020 ;</ref><ref type="bibr" target="#b31">Pouteau, 2020)</ref>. Cette orientation invite à se départir de modèles a priori et à privilégier l'expérience et l'observation directe, sans interposer de théorie ou d'instrument d'analyse. Par exemple, revenir à des phénomènes simples tels que la germination ou la croissance d'une plante, la parole ou le geste d'un paysan. Chacun à sa manière, Goethe et Jacob von Uexküll ont illustré de façon paradigmatique comment il est possible de parvenir à une compréhension entièrement originale des plantes, pour l'un, et des animaux, pour l'autre, en s'attachant à l'observation attentive des activités, performances, mouvements ou agentivités de ces êtres vivants.</p><p>Enfin, une troisième nécessité est de recourir à la transdisciplinarité, afin de composer avec différentes expériences, différentes sensibilités et différents savoirs situés. Concrètement, au cours de journées d'étude<ref type="foot" target="#foot_3">foot_3</ref> avec des praticiens engagés dans des pratiques d'écologisation en Nouvelle-Aquitaine, en Sologne et en Auvergne, nous avons examiné collectivement les spécificités du travail avec les plantes <ref type="bibr" target="#b34">(Pouteau et al., 2022 ;</ref><ref type="bibr" target="#b32">2023)</ref>. Bien loin de l'idée selon laquelle le travail serait une lutte contre la nature, certains praticiens envisagent leurs activités dans un rapport de coopération explicite. Beaucoup sont même réfractaires à l'emploi du terme « travail » qui évoque pour eux des situations de contrainte. Si les plantes travaillent, l'avis est alors que ce n'est pas à « pousse forcée », comme dans les formes de travail industrielles, où leur sont imposés des espaces-temps qui nécessitent en permanence des intrants. S'attachant à comprendre les facultés appréciatives des plantes, là où elles « se plaisent » le plus, la plupart de ces praticiens cherchent à conjuguer leur agir avec celui des plantes. Ainsi, des engrais verts sont semés pour enrichir le sol et favoriser les entrelacs de la plante avec son milieu, de façon qu'elle y pousse bien et puisse s'y épanouir. Si la pousse des haies est laissée libre, c'est dans des lieux compatibles aussi avec l'activité humaine et animale. De façon générale, un soin particulier est porté au lien que les plantes entretiennent avec les milieux où elles vivent. L'évocation d'une capacité à « se plaire » et à apporter des réponses positives aux soins prodigués par ces travailleurs de la terre rejoint la notion d'« épanouissement » qui est proposée dans le champ de l'éthique végétale <ref type="bibr" target="#b13">(Kallhoff, 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perspectives : éclairer le travail invisible des plantes</head><p>Le travail avec les plantes pour nous nourrir conduit à élargir la compréhension de ce travail ; cela en intégrant les composantes de relation à autrui et d'autoréalisation, qui sont mises en avant par la PDT utilisée comme référence de départ. S'interroger sur la place de l'être humain situé dans la nature implique de repenser la porosité entre vie domestique et travail. Cette porosité est jugée aliénante pour certains, car pouvant conduire à des formes de burn out, et émancipatrice pour d'autres car plus en phase avec les rythmes de la vie. Le travail avec les plantes demande à être qualifié comme un travail « autre », car il opère dans un rapport d'intégration au sein d'une trame relationnelle, en sollicitant une certaine continuité entre vie privée et vie sociale. Il nécessite de tisser des liens et des relations avec des autres, humains et non-humains, qui sont inscrits dans une demeure paysage, terroir, lieu, ambiance <ref type="bibr" target="#b26">(Pignier, 2021)</ref>. Cette trame relationnelle, nouée entre les autres et soi-même, repose sur le soin et la visée d'un « épanouissement » de la vie aussi bien humaine que végétale. Ce coépanouissement peut ainsi fournir une base pour comprendre la santé au travail. Il suppose de sortir de l'ombre ou de l'invisibilité l'activité fournie objectivement par les plantes, dans une imbrication de relations avec leur milieu et avec nous, afin de mieux apprécier ce qui les fait pousser et pourquoi elles consentent à le faire <ref type="bibr">(Javelle et Pinton, 2023)</ref>. Cela pourrait être la définition d'une « bonne » agriculture dans laquelle l'activité humaine d'affirmation et de coopération, créatrice de savoirs, trouverait sa plus juste expression. Les plantes nous invitent à ré-imaginer notre place dans la nature en nous fondant sur une « agroécologie vertueuse » <ref type="bibr" target="#b32">(Pouteau, 2023)</ref>. La suite de ce projet aura comme objectif d'enrichir cette lecture au cours de séminaires et d'ateliers transdisciplinaires impliquant des chercheurs et des praticiens.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>La réflexion exposée dans ce texte est conduite au sein du projet de recherche PlantCoopLab financé par la Fondation Daniel et Nina Carasso dans le cadre de l'appel à projets « Nourrir l'avenir » de l'axe Alimentation durable(2021)(2022)(2023)(2024). Elle a été préfigurée par une première note de synthèse(Pouteau et al.,  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>2022). 2 https://read.dukeupress.edu/environmental-humanities/. 3 https://plantcooplab.hypotheses.org/. 2 S. Pouteau et al. : Nat. Sci. Soc.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>S. Pouteau et al. : Nat. Sci. Soc.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>Voir le programme des journées d'étude sur : https:// plantcooplab.hypotheses.org/ : « Travail humain À Travail animal À Travail des " autres vivants " » (4 mai 2021, webinaire en duplex à l'Université de Limoges) ; « Les plantes au travail. Repenser l'activité végétale pour des nourritures durables » (16-17 mai 2022, Millançay) ; « Cueillir en coopérant avec les plantes : savoir être, savoir faire, savoir dire l'expérience des cueilleuses et des cueilleurs »(11-12 décem-</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>S. Pouteau et al. : Nat. Sci. Soc.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Taking love seriously in human-plant relations in Mozambique: toward an anthropology of affective encounters</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Archambault</surname></persName>
+		</author>
+		<idno type="DOI">10.14506/ca31.2.05</idno>
+		<ptr target="https://doi.org/10.14506/ca31.2" />
+	</analytic>
+	<monogr>
+		<title level="j">Cultural anthropology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="244" to="271" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Beltrame</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Higelé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salmona</surname></persName>
+		</author>
+		<idno type="DOI">10.14506/ca31.2.05</idno>
+		<title level="m">Jardins. Maraîchers. Travail du maraîchage sur le littoral Est ou Ouest varois</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1980">1980. Cordes</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bonneuil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomas</surname></persName>
+		</author>
+		<title level="m">Gènes, pouvoir et profits. Recherche publique et régimes de production des savoirs de Mendel aux OGM</title>
+		<meeting><address><addrLine>Versailles</addrLine></address></meeting>
+		<imprint>
+			<publisher>Quae</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dejours</surname></persName>
+		</author>
+		<title level="m">Travail vivant</title>
+		<meeting><address><addrLine>Lausanne</addrLine></address></meeting>
+		<imprint>
+			<publisher>Payot</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Plants as machines: history, philosophy and practical consequences of an idea</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hiernaux</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10806-021-09877-w</idno>
+		<ptr target="https://doi.org/10.1007/s10806-021-09877-w" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of agricultural and environmental ethics</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gorz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<title level="m">Métamorphoses du travail. Critique de la raison économique</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gallimard</publisher>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note>re éd</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<title level="m">Plants as persons. A philosophical botany</title>
+		<imprint>
+			<publisher>Albany, SUNY Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Domestication des animaux, culture des plantes et traitement d&apos;autrui</title>
+		<author>
+			<persName><forename type="first">A.-G</forename><surname>Haudricourt</surname></persName>
+		</author>
+		<idno type="DOI">10.3406/hom.1962.366448</idno>
+		<ptr target="https://doi.org/10.3406/hom.1962.366448" />
+	</analytic>
+	<monogr>
+		<title level="j">L&apos;Homme</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="50" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The ethics of plant flourishing and agricultural ethics: theoretical distinctions and concrete recommendations in light of the environmental crisis</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hiernaux</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/philosophies6040091</idno>
+		<ptr target="https://doi.org/10.3390/philosophies6040091" />
+	</analytic>
+	<monogr>
+		<title level="j">Philosophies</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">L&apos;acceptation de la part « sauvage » des plantes pour développer des systèmes maraîchers « diplomatiques</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Javelle</surname></persName>
+		</author>
+		<idno type="DOI">10.3917/lpe.006.0016</idno>
+		<ptr target="https://doi.org/10.3917/lpe.006.0016" />
+	</analytic>
+	<monogr>
+		<title level="j">La pensée écologique</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="16" to="26" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Altérités végétales et durabilité alimentaire : une approche par le travail</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Javelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pinton</surname></persName>
+		</author>
+		<ptr target="https://hal.inrae.fr/hal-04567671" />
+	</analytic>
+	<monogr>
+		<title level="m">Communication au 21 e séminaire d&apos;ethnobotanique annuel du domaine européen de Salagon « Qu&apos;est ce qui fait pousser les plantes</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="12" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Normaliser le sauvage : l&apos;expérience française des cueilleurs professionnels</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Julliand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Garreta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Lescure</surname></persName>
+		</author>
+		<idno type="DOI">10.4000/echogeo.16987</idno>
+		<ptr target="https://doi.org/10.4000/echogeo.16987" />
+	</analytic>
+	<monogr>
+		<title level="j">EchoGéo</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Plants in ethics: why flourishing deserves moral respect</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kallhoff</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/43695195" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental values</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="685" to="700" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The virtues of gardening: a relational account of environmental virtues</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kallhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schörgenhumer</surname></persName>
+		</author>
+		<idno type="DOI">10.5840/enviroethics2017121410</idno>
+		<ptr target="https://doi.org/10.5840/" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental ethics</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="193" to="210" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.5840/enviroethics2017121410</idno>
+		<idno>enviroethics2017121410</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m">Plant ethics. Concepts and applications</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Kallhoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paola</forename><forename type="middle">M</forename><surname>Di</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Schörgenhumer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kazic</surname></persName>
+		</author>
+		<title level="m">Quand les plantes n&apos;en font qu&apos;à leur tête</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>La Découverte</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Concevoir un monde sans production ni économie</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">C</forename><surname>Larrère</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Larrère</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Du bon usage de la nature</title>
+		<title level="s">Pour une philosophie de l&apos;environnement</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Aubier</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">L&apos;ethnobotanique au péril du gazon</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lieutaghi</surname></persName>
+		</author>
+		<idno type="DOI">10.4000/terrain.2779</idno>
+		<ptr target="https://doi.org/10.4000/terrain.2779" />
+	</analytic>
+	<monogr>
+		<title level="j">Terrain. Anthropologie &amp; sciences humaines</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="4" to="10" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mancuso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Viola</surname></persName>
+		</author>
+		<title level="m">L&apos;intelligence des plantes</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Albin Michel</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pouteau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Sci. Soc</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Les chiens de patrouille de la police nationale : les gueules armées de la République</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mouret</surname></persName>
+		</author>
+		<idno type="DOI">10.4000/sdt.2040</idno>
+		<ptr target="https://doi.org/10.4000/sdt.2040" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociologie du travail</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Gardening for therapeutic people-plant interactions during long-duration space missions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Odeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guy</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/opag-2017-0001</idno>
+		<ptr target="https://doi.org/10.1515/opag-2017-0001" />
+	</analytic>
+	<monogr>
+		<title level="j">Open agriculture</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pignier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Quand le design coénonce avec le vivant</title>
+		<author>
+			<persName><forename type="first">Écosémiotique</forename><surname>Design</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Le sens au coeur des dispositifs et des environnements, Saint-Denis, Connaissances et savoirs</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Mitropoulou</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Pignier</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="57" to="78" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Voyage en paysages nourriciers. Des paysans, des paysannes pour nous relier au vivant</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pignier</surname></persName>
+		</author>
+		<idno type="DOI">10.3917/dard.005.0044</idno>
+		<ptr target="https://doi.org/10.3917/dard.005.0044" />
+	</analytic>
+	<monogr>
+		<title level="j">Revue Dard-Dard</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="44" to="51" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pinton</surname></persName>
+		</author>
+		<ptr target="https://www.fondationbiodiversite.fr/le-developpement-de-la-cueillette-de-plantes-sauvages-sur-le-territoire-francais-conditions-et-enjeux-de-la-durabilite/" />
+		<title level="m">Le développement de la cueillette de plantes sauvages sur le territoire français : conditions et enjeux de la durabilité</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">FRB</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Porcher</surname></persName>
+		</author>
+		<title level="m">Vivre avec les animaux. Une utopie pour le XXI e siècle</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>La Découverte</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Porcher</surname></persName>
+		</author>
+		<title level="m">The of animal labor. A collaborative utopia</title>
+		<meeting><address><addrLine>Londres</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave MacMillan</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Beyond &quot;second animals&quot;: making sense of plant ethics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pouteau</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10806-013-9439-x</idno>
+		<ptr target="https://doi.org/10.1007/s10806-013-9439-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of agricultural and environmental ethics</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Mouvement et monde des êtres ouverts. Vers une écologie de la représentation des plantes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pouteau</surname></persName>
+		</author>
+		<idno type="DOI">10.3917/lpe.006.0005</idno>
+		<ptr target="https://doi.org/10.3917/lpe.006.0005" />
+	</analytic>
+	<monogr>
+		<title level="j">La pensée écologique</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="5" to="15" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Plant-centered virtue ethics: a cross-talk between agroecology and ecosophy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pouteau</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/philosophies8050097</idno>
+		<ptr target="https://doi.org/10.3390/" />
+	</analytic>
+	<monogr>
+		<title level="j">Philosophies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.3390/philosophies8050097</idno>
+		<idno>philosophies8050097</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pouteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Javelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mouret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pignier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Porcher</surname></persName>
+		</author>
+		<ptr target="https://hal.inrae.fr/hal-03566132" />
+		<title level="m">Travail humain À Travail animal À Travail des « autres vivants</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2022">2022. INRAE</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Rapport de recherche</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pouteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Javelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Melot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mouret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pignier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Porcher</surname></persName>
+		</author>
+		<ptr target="https://hal.inrae.fr/hal-04123500" />
+		<title level="m">Les plantes au travail. Repenser l&apos;activité végétale pour des nourritures durables</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023. INRAE</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Rapport de recherche</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Passive flora? Reconsidering nature&apos;s agency through human-plant studies (HPS)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ryan</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/soc2030101</idno>
+		<ptr target="https://doi.org/10.3390/" />
+	</analytic>
+	<monogr>
+		<title level="j">Societies</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="101" to="121" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.3390/soc2030101</idno>
+		<idno>soc2030101</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salmona</surname></persName>
+		</author>
+		<title level="m">Questions d&apos;épistémologie, d&apos;éthique et d&apos;action/ formation sur le travail avec la nature et les travailleurs de la nature et du vivant. Communication au colloque Diversification des modèles de développement rural</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>ministère de la Recherche</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="17" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Environmental humanities: an emerging field of transdisciplinary research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Soentgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zapf</surname></persName>
+		</author>
+		<idno type="DOI">10.14512/gaia.29.4.6</idno>
+		<ptr target="https://doi.org/10.14512/gaia.29.4" />
+	</analytic>
+	<monogr>
+		<title level="j">GAIA</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="225" to="229" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Caring for plants. Cultivating relational virtues</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schörgenhumer</surname></persName>
+		</author>
+		<idno type="DOI">10.14512/gaia.29.4.6</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Plant ethics. Concepts and applications</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Kallhoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paola</forename><forename type="middle">M</forename><surname>Di</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Schörgenhumer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="110" to="118" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tassin</surname></persName>
+		</author>
+		<title level="m">À quoi pensent les plantes ?</title>
+		<editor>
+			<persName><forename type="first">Odile</forename><surname>Jacob</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Traïni</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2016. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Entre dégoût et indignation morale. Sociogenèse d&apos;une pratique militante</title>
+		<idno type="DOI">10.3917/rfsp.624.0559</idno>
+		<ptr target="https://doi.org/10.3917/rfsp.624.0559" />
+	</analytic>
+	<monogr>
+		<title level="j">Revue française de science politique</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="559" to="581" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vilotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Houllier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mauguin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ronceray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cherbut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Guyomard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huyghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-F</forename><surname>Soussana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chemineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Marty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Gall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+		<idno type="DOI">10.15454/1.4821335498627292E12</idno>
+		<ptr target="https://dx.doi.org/10.15454/1.4821335498627292E12" />
+		<title level="m">Document d&apos;orientation #Inra2025</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Inra</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

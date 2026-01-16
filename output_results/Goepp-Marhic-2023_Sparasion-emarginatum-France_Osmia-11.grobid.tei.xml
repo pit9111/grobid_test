@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">espèce nouvelle pour la faune de France (Hymenoptera : Scelionidae)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="restricted">
+					<licence>CC-BY</licence>
+				</availability>
+				<date type="published" when="2023-03-25">25 March 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Téo</forename><surname>Goepp</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Erwann</forename><surname>Marhic</surname></persName>
+						</author>
+						<title level="a" type="main">espèce nouvelle pour la faune de France (Hymenoptera : Scelionidae)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2023-03-25">25 March 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">00E961D348114A4BCEBFDBF94C36CD8B</idno>
+					<idno type="DOI">10.47446/OSMIA11.3Résumé</idno>
+					<note type="submission">Received | 04 January 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-01-09T15:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">311e804</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Platygastroidea</term>
+					<term>Sparasionini</term>
+					<term>région méditerranéenne</term>
+					<term>nouvelles données</term>
+					<term>parasitoïdes Sparasion emarginatum KIEFFER, 1906, new species Platygastroidea</term>
+					<term>Sparasionini</term>
+					<term>Mediterranean area</term>
+					<term>new data</term>
+					<term>parasitoids Reçu</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>la source soit explicitement citée.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Les Sparasionini sont une tribu de la famille des Scelionidae constituée de cinq genres dans le monde : le genre Electroteleia BRUES connu uniquement à l'état de fossile, les genres Listron MUSETTI &amp; JOHNSON, Mexon MASNER &amp; JOHNSON et Sceliomorpha ASHMEAD présents en Amérique, et enfin le genre Sparasion LATREILLE, seul genre présent en Europe et répandu dans toute la région holarctique, en Afrique et en Asie <ref type="bibr" target="#b6">(JOHNSON et al., 2008)</ref>. Les quelques espèces de Sparasion dont la biologie est connue sont des parasitoïdes d'oeufs d'Orthoptères Tettigoniidae <ref type="bibr" target="#b15">(MUESEBECK, 1979)</ref>.</p><p>Le genre Sparasion a été décrit par LATREILLE (1802) sur la base d'une seule espèce : S. cephalotes. Quelques espèces ont ensuite été décrites par NEES (1834), FÖRSTER (1856), RUTHE (1859) et COSTA (1884). Cependant, les espèces européennes ont été en grande partie décrites et révisées par KIEFFER <ref type="bibr">(1906,</ref><ref type="bibr">1914)</ref> qui propose par ailleurs une clé pour l'ensemble des espèces européennes qui demeure utilisable et la plus complète à l'heure actuelle pour la France. <ref type="bibr" target="#b4">HELLÉN (1971)</ref> propose lui aussi une clé, mais celle-ci n'inclut que les trois espèces finlandaises. De nombreuses espèces ont ensuite été décrites par <ref type="bibr" target="#b13">KOZLOV &amp; KONOVA (1990)</ref> ; une clé pour ces espèces a ensuite été proposée par <ref type="bibr" target="#b11">KONOVA &amp; PETROV (2001)</ref>, mais elle concerne principalement des espèces d'Europe de l'Est, ce qui la rend difficilement utilisable pour la France.</p><p>Le genre Sparasion se reconnaît très bien parmi les Scelionidae par la présence de lamelles frontales surplombant la tête ; leur nombre varie d'un à trois <ref type="bibr" target="#b6">(JOHNSON et al., 2008)</ref>. La taille des spécimens varie de 2 à 7 mm selon les espèces <ref type="bibr" target="#b6">(JOHNSON et al., 2008)</ref> et la plupart des espèces est en majeure partie noire (sauf les pattes, plus ou moins testacées) mais quelques-unes sont bleu brillant <ref type="bibr">(KIEFER, 1914)</ref>.     MATÉRIEL EXAMINÉ 9 ♂♂ et 3 ♀♀. Bouches-du-Rhône (13) : 3 ♂♂, Saint-Martinde-Crau, 13.VII.2022 (leg., coll. &amp; det. E. MARHIC) (figures 1-4). Corse (20) : 1 ♂ Casalabriva, 29.VII.2021 (leg. R. MAHAUT, coll. &amp; det. E. MARHIC). Vaucluse (84) : 2 ♂♂, Bédoin, 09.VII.2021 ; 1 ♂ et 2 ♀♀, Bédoin, 26.VII.2021 ; 1 ♂ et 1 ♀, Bédoin, 01.VII.2022 ; (leg., coll. &amp; det. T. GOEPP). Pyrénées-Orientales (66) : 1 ♂, Arboussols, 10.VIII.2022 (leg. &amp; coll. M. GARRIN, det. E. MARHIC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RÉPARTITION CONNUE</head><p>Italie <ref type="bibr" target="#b7">(KIEFFER, 1906)</ref>, Ukraine (KOZLOV &amp; KONOVA, 1990), France (présente publication).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>La présence de</head><p>Sparasion emarginatum dans au moins quatre départements français, tout comme sa présence en Italie (KIEFFER, 1906) et en Ukraine (KOZLOV &amp; KONOVA, 1990), laissent à penser que l'espèce est très largement répartie, au moins dans le Bassin méditerranéen. Malheureusement, les Sparasion et les Scelionidae en général sont des Hyménoptères très peu collectés et donc peu hhhhh hhh hhhh hhh hhhh hhh hhhh hhhh hhh hhhh hhh hhhh hhh hhhh hhh hhh représentés en collection : ils font de ce fait l'objet de peu de publications (aucune publication en France sur le genre Sparasion depuis KIEFFER, 1914). D'autres Sparasion examinés par les auteurs sont eux aussi d'un intérêt remarquable, mais nécessitent une étude plus approfondie car ils sont moins caractéristiques que S. emarginatum ; ils feront probablement l'objet de publications ultérieures. REMERCIEMENTS Les auteurs tiennent à remercier Paul VIGNAC pour la réalisation des photographies, Roxanne MAHAUT pour l'envoi du spécimen corse et Maël GARRIN pour le prêt du spécimen des Pyrénées-Orientales. Les auteurs remercient aussi les relecteurs, Quentin ROME et Benoît GESLIN, pour leurs encouragements et leurs conseils. 0,25 mm</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Sparasion emarginatum KIEFFER, 1906 (figures 1-4) est facilement différenciable des autres espèces européennes par la combinaison des critères suivants : corps entièrement noir, tibias et tarses ferrugineux, présence de deux lamelles frontales, la lamelle antérieure nettement échancrée. Les individus mesurent généralement entre 4 et 4,5 mm.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Sparasion emarginatum ♂ en vue latérale (Saint-Martin-de-Crau, Bouches-du-Rhône, France). Cliché P. VIGNAC.</figDesc><graphic coords="3,56.75,55.89,481.10,218.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Sparasion emarginatum ♂ en vue dorsale (ibid.).Cliché P. VIGNAC.</figDesc><graphic coords="3,56.70,303.90,238.05,446.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Sparasion emarginatum ♂ en vue ventrale (ibid.).Cliché P. VIGNAC.</figDesc><graphic coords="3,315.35,303.90,223.21,447.67" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Sparasion emarginatum ♂, détail de la tête (ibid.). Cliché P. VIGNAC.</figDesc><graphic coords="4,56.70,55.22,481.04,374.05" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>[TG] 364 route de Carpentras, F -84410 Bédoin, France • teogoepp3@gmail.com https://orcid.org/0000-0001-8713-4498 • https://zoobank.org/F1E715BC-2DE2-4AEF-B6EB-3A1B9B9EB58A</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>[EM] 25 rue du Maréchal de Lattre de Tassigny, F -78780 Maurecourt, France • erwann.marhic@gmail.com https://orcid.org/0000-0002-5102-6687 • https://zoobank.org/3A03873C-E603-4C6F-9DAF-BE8173229549</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_2"><p>mm</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Costa</surname></persName>
+		</author>
+		<title level="m">Risultamento delle ricerche fatte in Sardegna nella estate del</title>
+		<imprint>
+			<publisher>Memoria Terza</publisher>
+			<date type="published" when="1883">1884. 1883</date>
+		</imprint>
+	</monogr>
+	<note>Notizie ed osservazioni sulla geo-fauna sarda</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title/>
+		<ptr target="https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1477&amp;context=bee_lab_co" />
+	</analytic>
+	<monogr>
+		<title level="j">Atti della Reale Accademia delle Scienze Fisiche e Matematiche di Napoli</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1" to="64" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Förster</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1856">1856</date>
+		</imprint>
+	</monogr>
+	<note>Hymenopterologische Studien</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Proctotrupii</forename><forename type="middle">E</forename><surname>Chalcidiae</surname></persName>
+		</author>
+		<idno type="DOI">10.5962/bhl.title.8795</idno>
+		<ptr target="https://doi.org/10.5962/bhl.title.8795" />
+		<title level="m">TER MEER</title>
+		<meeting><address><addrLine>Aachen (Germany</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="page">152</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Fauna fennica</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hellén</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Die Scelioninen Finnlands (Hymenoptera: Proctotrupoidea)</title>
+		<idno type="DOI">10.5281/zenodo.23694</idno>
+		<ptr target="https://doi.org/10.5281/zenodo.23694" />
+		<imprint>
+			<publisher>Societas pro Fauna et Flora Fennica</publisher>
+			<biblScope unit="volume">25</biblScope>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Review of genera of the tribe Sparasionini (Hymenopetra, Platygastroidea, Scelionidae), and description of two new genera from the new world</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Masner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Musetti</surname></persName>
+		</author>
+		<ptr target="http://hdl.handle.net/2246/5937" />
+	</analytic>
+	<monogr>
+		<title level="j">American Museum Novitates</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2008">2008. 3629</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Description de nouveaux Hyménoptères</title>
+		<author>
+			<persName><forename type="first">J.-J</forename><surname>Kieffer</surname></persName>
+		</author>
+		<idno type="DOI">10.5281/zenodo.24174</idno>
+		<ptr target="https://doi.org/10.5281/zenodo.24174" />
+	</analytic>
+	<monogr>
+		<title level="j">Annales de la Société Scientifique de Bruxelles</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="113" to="178" />
+			<date type="published" when="1906">1906</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J.-J</forename><surname>Kieffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proctotrypidae</title>
+		<imprint>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="1914">1914</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Species des Hyménoptères d&apos;Europe et d&apos;Algérie</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>André</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1914">1914</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hermann</surname></persName>
+		</author>
+		<idno type="DOI">10.5962/bhl.title.10281</idno>
+		<ptr target="https://doi.org/10.5962/bhl.title.10281" />
+		<imprint>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Konova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Review of scelionids of the genus Sparasion (Hymenoptera, Scelionidae) of Palaearctic region. Communication 1. Characteristics of the genus and description of new species] [In Russian]</title>
+		<ptr target="https://archive.org/details/vestnzool2001203/mode/2up" />
+	</analytic>
+	<monogr>
+		<title level="j">Vestnik Zoologii</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="23" to="42" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Hymenoptera, Scelionidae, Scelioninae from USSR</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kozlov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Konova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Acad.Sc. USSR</title>
+		<imprint>
+			<biblScope unit="page">344</biblScope>
+			<date type="published" when="1990">1990</date>
+			<publisher>Leningrad, Nauka Publ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Latreille</surname></persName>
+		</author>
+		<idno type="DOI">10.5962/bhl.title.15764</idno>
+		<ptr target="https://doi.org/10.5962/bhl.title.15764" />
+		<title level="m">Histoire naturelle, générale et particulière des Crustacés et des insectes</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Dufart</publisher>
+			<date type="published" when="1802">1802</date>
+			<biblScope unit="volume">467</biblScope>
+		</imprint>
+	</monogr>
+	<note>Tome troisième</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Superfamily Proctotrupoidea</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F W</forename><surname>Muesebeck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="1121" to="1186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Catalogue of Hymenoptera in America North of Mexico</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Krombein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hurd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Burks</surname></persName>
+		</author>
+		<idno type="DOI">10.5962/bhl.title.5074</idno>
+		<ptr target="https://doi.org/10.5962/bhl.title.5074" />
+		<imprint>
+			<date type="published" when="2209">2209</date>
+			<publisher>Smithonian Institution Press</publisher>
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Hymenopetrum ichneumonibus affinium monographiae</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Von Esenbeck</surname></persName>
+		</author>
+		<idno type="DOI">10.5962/bhl.title.26555</idno>
+		<ptr target="https://doi.org/10.5962/bhl.title.26555" />
+	</analytic>
+	<monogr>
+		<title level="m">genera Europaea et species illustrantes. Scripsit Christ. J. G. COTTAE</title>
+		<meeting><address><addrLine>Stuttgart (Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1834">1834</date>
+			<biblScope unit="page">320</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Ruthe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1859">1859</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">STAUDINGER im Jahre 1856 auf Island gesammelten Hymenopteren</title>
+		<author>
+			<persName><surname>Verzeichniss Der Von Dr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomologische Zeitung</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="305" to="322" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

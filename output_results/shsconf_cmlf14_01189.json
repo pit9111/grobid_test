@@ -1,0 +1,1081 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "« Ça s’appelle comment le docteur des animaux ? » Co-(re)construction des productions non standard de l’enfant",
+    "authors": [
+      "Sophie De Pontonx",
+      "Caroline Masson",
+      "Marie Leroy-Collombel",
+      "Aliyah Morgenstern"
+    ],
+    "doi": "10.1051/shsconf/20140801189",
+    "hash": "B4E8DB327FEA829026816D2F0D08C576",
+    "publication_date": "2014",
+    "publication_year": 2014,
+    "publisher": "EDP Sciences",
+    "journal": "SHS Web of Conferences",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Si les premiers gestes, les premiers mots de l'enfant sont du langage répliqué, emprunté, reproduit, il y a souvent des écarts et des déformations par rapport au langage adulte. L'enfant va devoir non seulement s'approprier des constructions langagières, les manipuler, et les investir pour devenir un sujet-énonciateur à part entière, mais également en maîtriser la forme et l'usage afin de reproduire au mieux la cible adulte proposée dans son environnement linguistique.",
+        "coords": [],
+        "refs": []
+      },
+      {
+        "id": 1,
+        "text": "Dans une étude des interactions mère-enfant chez une petite fille monolingue française entre 1 an 9 mois et 4 ans, notre équipe s'est penchée sur un phénomène interactionnel au croisement de l'appropriation du système linguistique et de son usage par l'enfant : le travail mère-enfant pour reformuler ou rectifier les formes et les usages non standard.",
+        "coords": [],
+        "refs": []
+      },
+      {
+        "id": 2,
+        "text": "Cette collaboration fine et constructive relève de deux niveaux. D'un point de vue interactionnel, la mère propose des rectifications à l'enfant, la sollicite également grâce à des procédés variés (demandes de clarification, de reformulation, rectifications directes ou indirectes…), afin qu'elle effectue elle-même ces rectifications. L'enfant, quant à elle, participe en reprenant les rectifications offertes par la mère, ou en rectifiant seule ses énoncés. D'un point de vue linguistique, les rectifications de la mère et de l'enfant mettent en jeu des niveaux linguistiques différents, adaptés à son développement langagier et à son âge. Des travaux récents sur le français montrent que la phonologie et le lexique sont des lieux privilégiés de travail sur la langue au plus jeune âge, suivis de la morphosyntaxe et de la pragmatique (Morgenstern et  al., 2013).",
+        "coords": [],
+        "refs": []
+      },
+      {
+        "id": 3,
+        "text": "L'analyse de ces séquences pourra montrer combien la mère joue un rôle clé dans l'acquisition du langage par l'enfant (Clark & Chouinard 2000). C'est dans cette collaboration étroite que se construisent les capacités à la fois linguistiques, interactionnelles et sociales de l'enfant. L'enfant peut ainsi s'approprier à la fois des outils linguistiques et un savoir faire -savoir être social, dialogique, dans la langue et la co-énonciation. Nos analyses nous amènent à repérer des processus qui pourraient faciliter la mise en place des compétences linguistiques et interactionnelles des enfants.",
+        "coords": [],
+        "refs": [
+          {
+            "type": "bibr",
+            "target": "#b5",
+            "text": "(Clark & Chouinard 2000)",
+            "offset_start": 118,
+            "offset_end": 142
+          }
+        ]
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_bdcac020",
+      "text": "Comme le rappelle Veneziano (1997 : 91) « quand l'enfant participe à certains échanges conversationnels, leurs caractéristiques constituent l'une des sources pour l'acquisition de certains aspects du langage, du moins à certaines périodes du développement, et elles peuvent faire partie de ce que Bruner (1983) appelle le 'système de soutien pour l'acquisition du langage' ». C'est dans ses échanges avec les adultes qui l'entourent au quotidien que l'enfant a un accès direct à la langue adulte en contexte et en lien avec des activités diversifiées. Par ailleurs, c'est dans ses échanges quotidiens avec l'enfant que l'adulte apporte ses interprétations des productions verbales et du comportement du jeune enfant, influençant ainsi la façon dont il pourra internaliser ces réactions (Vygotsky, 1978). En analysant ces échanges, nous pouvons donc saisir et mettre en évidence des processus qui ont une grande importance dans l'appropriation du langage par l'enfant. Comme le propose Veneziano (1997), c'est bien en analysant les productions de l'adulte en relation avec celles de l'enfant que nous pouvons mieux comprendre comment elles contribuent à l'enrichissement du langage de l'enfant.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Veneziano (1997 : 91)",
+          "offset_start": 18,
+          "offset_end": 39
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "Bruner (1983)",
+          "offset_start": 297,
+          "offset_end": 310
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Vygotsky, 1978)",
+          "offset_start": 786,
+          "offset_end": 802
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "Veneziano (1997)",
+          "offset_start": 985,
+          "offset_end": 1001
+        }
+      ],
+      "head_section": "Problématique et état de l'art"
+    },
+    {
+      "id": "p_ae9c9315",
+      "text": "Nous nous intéresserons ici à un processus plus spécifique que les questions d'élaboration du dire et de reformulation. Il s'agira du décalage qu'il peut y avoir entre une production langagière et/ou sa réception, et ce que l'énonciateur a voulu dire. Nous considérerons que pour qu'il y ait rectification, l'énonciateur a échoué à atteindre sa cible avec sa production A et soit lui, soit son interlocuteur propose A', résultat d'une modification qui touche soit le sens de l'énoncé soit sa forme. Nous étudierons donc les séquences comprenant des éléments qui ne correspondent pas à la cible adulte et auxquelles les interlocuteurs tentent de remédier soit en rectifiant soit en élicitant des rectifications de la part de l'enfant. Ces processus mettent en oeuvre à la fois des compétences socio-pragmatiques (Forrester, 2008) et linguistiques. L'enjeu de cette étude est de comprendre le travail de reformulation-correction de l'adulte, de le repérer dans le corpus, d'en évaluer la nature et éventuellement, la portée.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Forrester, 2008)",
+          "offset_start": 811,
+          "offset_end": 828
+        }
+      ],
+      "head_section": "Problématique et état de l'art"
+    },
+    {
+      "id": "p_d8b6655d",
+      "text": "Dans le cadre théorique de l'analyse conversationnelle, les travaux se sont surtout centrés sur des descriptions très détaillées du déroulement des séquences de réparation ('repairs') et sur les stratégies déployées par les énonciateurs afin de résoudre des problèmes de compréhension ou de production au cours de la conversation. Comme l'ont montré Schegloff et al. (1977), les séquences de réparations se déroulent en plusieurs étapes : 1) un énoncé qui contient la source du problème est produit par l'un des interlocuteurs ; 2) le problème est signalé par l'énonciateur ou son interlocuteur qui initie une réparation ; 3) la réparation est produite par l'énonciateur (auto-réparation) ou l'interlocuteur (hétéro-réparation) ; 4) l'interlocuteur peut manifester qu'il comprend la réparation et la conversation continue. Les adultes tendent à utiliser surtout les auto-réparations. Norrick (1991) a montré que, dans les interactions natifs/apprenants, les locuteurs natifs pouvaient spontanément reformuler les énoncés non standard des apprenants. Schegloff et al. (1977) ont aussi suggéré que dans les interactions mère-enfant, les hétéro-réparations seraient prédominantes. Forrester a cependant montré dans son corpus longitudinal de données natives que les auto-réparations sont plus nombreuses dès le début du corpus (2008). Les enfants construisent très tôt une pratique sociale partagée par leur communauté linguistique : la préférence pour les auto-réparations. Selon Wootton (1997), les réparations révèlent la capacité de l'enfant à s'assurer que la compréhension est partagée par ses interlocuteurs. Dans son étude, Forrester a aussi montré que les stratégies construites par l'enfant pour faire des auto-réparations évoluent en parallèle à ses capacités cognitives, interactionnelles et linguistiques. Quand elle est très jeune, la petite fille étudiée, Ella, transforme les phonèmes afin de réparer ses énoncés. En grandissant, elle introduit des altérations grammaticales et utilise de plus en plus le regard afin de contrôler l'attention de l'adulte sur ses productions langagières. Il faut rappeler que, sous le terme de « repairs », Forrester et ses collègues de l'approche conversationnelle étudient un phénomène assez large qui comprend les reformulations, reprises, répétitions et réélaborations du dire. Cela peut expliquer pourquoi ce phénomène apparaît très tôt dans son corpus.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Schegloff et al. (1977)",
+          "offset_start": 350,
+          "offset_end": 373
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "Norrick (1991)",
+          "offset_start": 884,
+          "offset_end": 898
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Schegloff et al. (1977)",
+          "offset_start": 1050,
+          "offset_end": 1073
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(2008)",
+          "offset_start": 1324,
+          "offset_end": 1330
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "Wootton (1997)",
+          "offset_start": 1478,
+          "offset_end": 1492
+        }
+      ],
+      "head_section": "Les « réparations » dans les interactions entre adultes"
+    },
+    {
+      "id": "p_f041a75e",
+      "text": "En dehors du cadre théorique de l'analyse conversationnelle, les spécialistes d'acquisition du langage se penchent surtout sur le rôle joué par les parents en tant qu'experts sur le développement du langage de leurs enfants. Ces études sont donc centrées sur le contenu des énoncés produits par les adultes et les enfants, en particulier quand l'adulte reprend et reformule l'énoncé de l'enfant, et que l'enfant reprend également éventuellement la reformulation proposée par l'adulte. Ce sont donc surtout les sollicitations de réparations et les hétéro-réparations qui ont été étudiées par ces chercheurs. Parmi ces études, on se demande surtout si les séquences de réparations sont un processus qui sous-tend l'acquisition du langage (Bernicot et al., 2006 ;De Weck, 2000). Quand les adultes et les enfants reprennent les productions linguistiques de l'autre, cela permet aux enfants de faire l'expérience de la continuité dialogique avec des moyens assez simples. Quand les enfants répètent les reformulations adultes de leurs propres énoncés, ils incorporent les formes conventionnelles du système adulte dans leurs nouveaux énoncés (Clark, 2006). Ce processus facilite leur acquisition de nouveaux mots, de nouvelles constructions et des énoncés complexes (Veneziano et al., 1990). Ces études se centrent donc sur les reformulations locales des énoncés de l'interlocuteur. Les reformulations peuvent être considérées comme de la « negative evidence » : elles représentent un écart entre la production de l'enfant et le modèle adulte, ce qui permet à l'enfant de confronter sa production à celle de l'adulte. Ce concept a d'abord été introduit par Gold (1967) afin de justifier l'innéisme mais a été élargi par Saxton (1997) afin d'inclure la désapprobation implicite et tout type d'information qui permet d'identifier les erreurs des enfants durant l'acquisition (Chouinard & Clark, 2003). Les parents occidentaux de classe moyenne sont donc décrits comme cherchant à s'ajuster aux besoins et au niveau linguistique de leur enfant par des stratégies de simplification, d'expansion et de réparation des énoncés de leurs enfants. Mais cette « negative evidence », cet effet de contraste donné par le modèle en langue cible, n'est pas toujours produit de manière explicite et intentionnelle. Il est important de reconnaître la place des réparations implicites et des reformulations sans correction explicite qui permettent de ne pas interrompre le flot de la conversation (Forrester, 2008) et fournissent en même temps les formes cibles à l'enfant (Demetras et al., 1986 ;Hirsh-Pasek et al., 1984).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Bernicot et al., 2006 ;",
+          "offset_start": 736,
+          "offset_end": 760
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "De Weck, 2000)",
+          "offset_start": 760,
+          "offset_end": 774
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Clark, 2006)",
+          "offset_start": 1137,
+          "offset_end": 1150
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "(Veneziano et al., 1990)",
+          "offset_start": 1261,
+          "offset_end": 1285
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "Gold (1967)",
+          "offset_start": 1652,
+          "offset_end": 1663
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Saxton (1997)",
+          "offset_start": 1715,
+          "offset_end": 1728
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Chouinard & Clark, 2003)",
+          "offset_start": 1868,
+          "offset_end": 1893
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Forrester, 2008)",
+          "offset_start": 2474,
+          "offset_end": 2491
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Demetras et al., 1986 ;",
+          "offset_start": 2550,
+          "offset_end": 2574
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Hirsh-Pasek et al., 1984)",
+          "offset_start": 2574,
+          "offset_end": 2599
+        }
+      ],
+      "head_section": "Les « réparations » dans les interactions adulte-enfant"
+    },
+    {
+      "id": "p_85cb0790",
+      "text": "Il est également difficile de montrer les effets à court terme de ces stratégies puisque les enfants ont tendance à utiliser des formes fixes et à ne pas manifester beaucoup de flexibilité dans leur manipulation du langage. Cependant Chouinard et Clark (2003) suggèrent que la comparaison de leurs énoncés avec ceux des adultes qui leur succèdent immédiatement permet aux enfants d'identifier la forme conventionnelle qu'il aurait fallu utiliser. Ces corrections juxtaposées aux formes non standard dans le cours du dialogue sont en contraste avec les productions de l'enfant. Quand les enfants sont capables de remarquer l'écart entre les formes, ils peuvent alors mémoriser les formes « correctes » et les réemployer plus tard. Ce processus dialogique implique que, depuis le début, les enfants incorporent ce que disent les adultes, ce qui requiert des capacités sociales et linguistiques spécifiques. Les enfants doivent reconnaître l'hétéro-réparation et la prendre en compte afin d'apprendre la formulation adéquate. Quand ce processus est suffisamment internalisé, les enfants seraient capables quand ils produisent une forme non standard, de réagir par rapport à la forme mémorisée et de s'auto-corriger afin de produire eux-mêmes la forme cible.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Cependant Chouinard et Clark (2003)",
+          "offset_start": 224,
+          "offset_end": 259
+        }
+      ],
+      "head_section": "Les « réparations » dans les interactions adulte-enfant"
+    },
+    {
+      "id": "p_c40bb528",
+      "text": "En effet, quand ils sont très jeunes, les enfants produisent difficilement la forme cible, souvent en raison d'écarts d'ordre phonologique, sémantique, morpho-syntaxique. Mais ils n'ont pas toujours conscience des problèmes de compréhension que ces formes non standard peuvent provoquer. Les adultes peuvent alors montrer par leurs requêtes que les formes sont à clarifier (Clark & Chouinard, 2000 ;Morgenstern & Sekali, 1999). Les enfants ont grâce à ces sollicitations la possibilité de faciliter la compréhension adulte en fournissant une forme plus adéquate. Une fois que les adultes ont compris l'intention communicationnelle de l'enfant, ils peuvent également améliorer la réparation en offrant un modèle potentiel à l'enfant dans le tour de parole suivant (Bruner, 1983). Les enfants peuvent alors reprendre cette forme, ce qui manifeste qu'ils ont compris qu'il s'agissait bien d'une forme à incorporer dans leur système langagier et qui correspond à leur intention communicationnelle. Cet échange demande donc une certaine forme de ce que l'on appelle théorie de l'esprit ou intersubjectivité : les enfants doivent comprendre et prendre en compte le fait que l'adulte ne les a pas compris et qu'ils doivent altérer leur production afin de favoriser la compréhension (Morgenstern & Sekali, 1999 ;Clark 2003). Selon Clark & Chouinard (2000), les enfants acceptent implicitement les reformulations adultes et continuent l'échange. Ils ne répètent pas souvent les réparations dans le contexte immédiat mais ils s'attendent à ce que les adultes les corrigent : ils écoutent leurs reformulations et les utilisent plus tard. Progressivement, les enfants sont capables de gérer ce type de séquence tous seuls car ils deviennent conscients de ce qui peut gêner la compréhension de leur interlocuteur (Forrester, 2008).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "(Clark & Chouinard, 2000 ;",
+          "offset_start": 373,
+          "offset_end": 399
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Morgenstern & Sekali, 1999)",
+          "offset_start": 399,
+          "offset_end": 426
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "(Bruner, 1983)",
+          "offset_start": 763,
+          "offset_end": 777
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "(Morgenstern & Sekali, 1999 ;",
+          "offset_start": 1275,
+          "offset_end": 1304
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "Clark 2003)",
+          "offset_start": 1304,
+          "offset_end": 1315
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Selon Clark & Chouinard (2000)",
+          "offset_start": 1317,
+          "offset_end": 1347
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Forrester, 2008)",
+          "offset_start": 1800,
+          "offset_end": 1817
+        }
+      ],
+      "head_section": "Les « réparations » dans les interactions adulte-enfant"
+    },
+    {
+      "id": "p_456eb5af",
+      "text": "Afin de se rendre compte si les rectifications sont suffisamment fréquentes pour être efficaces, si elles se transforment en fonction du niveau linguistique de l'enfant et si les enfants utilisent les hétéro-réparations afin d'apprendre les règles sociales et linguistiques et afin de produire des auto-réparations, Morgenstern et al. (2013) ont analysé trois suivis longitudinaux français en détail. Les auteurs ont codé toutes les rectifications effectuées dans le corpus et ont trouvé qu'en début de corpus la plupart des rectifications sont faites par les mères alors qu'en fin de corpus, en fonction de la longueur moyenne des énoncés de l'enfant, les auto-rectifications prennent nettement le dessus. En se centrant sur une enfant, Madeleine, elles ont montré que la mère s'ajustait parfaitement au niveau linguistique de l'enfant. Si, pour cette mère, la « correction » formelle semble très importante, elle ne vient jamais empêcher l'efficacité de la communication et la grande majorité des rectifications sont indirectes. Le plus important semble de favoriser la meilleure compréhension possible entre les interlocuteurs et la poursuite de l'échange langagier. A la fin du corpus, ce sont les auto-rectifications qui sont majoritaires et l'enfant semble avoir internalisé en dialogue le rôle de l'adulte : elle est capable de rectifier elle-même un nombre important de ses propres énoncés. Afin d'analyser le travail de la mère plus en finesse, nous avons fait le choix quant à nous de nous centrer sur un seul suivi longitudinal en codant toutes les productions non standard de l'enfant en fonction du niveau linguistique des écarts ainsi que la suite immédiate donnée à ces productions dans le dialogue en fonction des rectifications (ou non) de la mère et d'éventuelles reprises de l'enfant, des sollicitations de la mère réussies ou pas, ou des auto-rectifications de l'enfant.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Morgenstern et al. (2013)",
+          "offset_start": 316,
+          "offset_end": 341
+        }
+      ],
+      "head_section": "Les « réparations » dans les interactions adulte-enfant"
+    },
+    {
+      "id": "p_201c4194",
+      "text": "Cette étude s'appuie sur les données longitudinales d'Anaé, dont le corpus a été recueilli dans le cadre du projet ANR CoLaJE (http://colaje.scicog.fr ; Morgenstern & Parisse, 2012) 1 . Anaé est une petite fille française de classe moyenne-supérieure, filmée une heure par mois à partir de 18 mois et jusqu'à 7 ans, en situation naturelle (à son domicile, en interaction avec sa mère et parfois ses deux grands frères). Les enregistrements ont été réalisés par Aliyah Morgenstern.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_d97ea980",
+      "text": "Les données issues de ces enregistrements ont été transcrites dans le cadre du projet CoLaJE avec le logiciel CLAN (programme CHILDES ; MacWhinney, 2000), revues par un deuxième transcripteur. Ces transcriptions ont été codées sous EXCEL pour les besoins de notre étude avec un alignement entre les lignes du tableur, les transcriptions et les vidéos (programmation de Christophe Parisse).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_0ea252b3",
+      "text": "Toutes les productions non standard de l'enfant (désormais PNS), c'est-à-dire toutes les formes produites par celle-ci ne correspondant pas à la forme adulte, ont été analysées afin de déterminer si l'adulte ou l'enfant elle-même rectifie ou non, et de quelle façon, la forme non conforme. Le codage a été conçu et effectué par les quatre auteurs de l'étude qui ont travaillé ensemble sur chacune des séances et ont pu ainsi discuter entre eux chaque codage, en particulier s'ils avaient des interprétations différentes. Toutes les divergences ont été résolues en équipe. Dans chacune des six séquences analysées (1;09, 2;03, 2;09, 3;04, 3;10 et 4;00) représentant ainsi six heures d'enregistrement, nous avons codé tous les énoncés de l'enfant en précisant pour chaque production non standard :",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_b84c5254",
+      "text": "1) La forme de l'« erreur » et l'énoncé attendu (adulte) en fonction du niveau linguistique impliqué : phonologique ([eve] à 1;09 au lieu de « enlever »), sémantique (« bouche » pour « bec » de l'oiseau à 3;04), morphologique (« ça c'est un animaux féroce » à 4;00), syntaxique (omission du sujet « est belle » à 1;09), pragmatique (à 4;00 « j'ai regardé le film avec Agathe » sans introduire la situation au préalable, ce qui rend l'article défini non pertinent) et valeur de vérité (à 3;04, Anaé produit le mot « éléphant » pour référer à une image de « rhinocéros » alors qu'elle connaît les deux termes).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_e286ad66",
+      "text": "2) La présence ou l'absence d'une rectification, qu'elle soit apportée par la mère (hétéro-rectification) ou par l'enfant elle-même (auto-rectification).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_8e22400d",
+      "text": "3) La forme de l'hétéro-rectification : « directe » si la mère signale de façon explicite la correction (Anaé à 4;00 « ça c'est un petit chevaux », sa mère corrige « un petit cheval » avec une accentuation sur le VAL) ou « indirecte » si elle fournit à l'enfant la forme correcte de l'énoncé sans avoir forcément l'intention de la corriger (l'enfant demande à 2;09 « comment e@fs 2 s'appelle », sa mère répond « il s'appelle Zozio »).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_0f815e27",
+      "text": "4) Les initiations, c'est-à-dire lorsque la mère ne rectifie pas la production non standard de l'enfant mais signale l'existence d'un trouble, soit en le questionnant (l'enfant dit à 3;04 « une moustique » pour identifier un insecte dans un livre et sa mère lui dit « tu crois ? » car c'est en fait un bourdon), soit en amorçant la rectification (quand Anaé dit à 1;09 «[ago] pour désigner un animal, la mère reprend en disant « coc-… » pour que sa fille complète avec « -cinelle »).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_266f0ebf",
+      "text": "5) La prise en compte ou non par l'enfant des différentes formes de rectifications et initiations et donc la « réussite » ou non des procédés implicites ou explicites de rectification. Nous considérons qu'elles sont totalement réussies quand l'enfant, dans l'énoncé qu'elle produit directement après, corrige l'élément qui avait été signalé ou rectifié par la mère même si d'autres éléments de l'énoncé comportent des imperfections. Nous avons également codé comme partiellement réussies les interventions de la mère qui conduisent l'enfant à tenter de se corriger même sans succès car cela montre qu'il a pris en compte l'énoncé de sa mère. Ainsi à 2;03, Anaé dit « téléphant », la mère corrige « l'éléphant » et sa fille reprend « l'éléphant ». A l'inverse à 2;09 Anaé dit « je veux faire jeux oninateur », sa mère répond « non c'est après le jeu sur l'ordinateur », et la petite fille reprend « mais je veux faire un jeu sur l'orninateur ». Ici la rectification indirecte de la mère a eu un impact sur la syntaxe de l'énoncé, et le mot orninateur est plus proche de la cible adulte au niveau phonologique sans toutefois l'atteindre. Quand les signalements ou les rectifications ne sont pas réussis, on distingue les cas où l'enfant passe tout simplement à autre chose, sans relever les propos de sa mère, mais aussi les cas où elle persiste dans son erreur voire refuse activement la rectification. Ainsi à 2;03, Anaé dit « chinge » pour parler d'un singe et bien que sa mère lui donne ensuite plusieurs fois le modèle « singe », Anaé persistera dans sa prononciation pendant toute la séquence.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Méthodologie"
+    },
+    {
+      "id": "p_64bcf08b",
+      "text": "Les auteurs qui ont travaillé sur le Paris Corpus décrivent une grande complicité entre Anaé et sa mère et une très grande complémentarité entre leurs tours de parole (Del Ré & Morgenstern, 2009 ;Leroy, 2009). Mais les productions d'Anaé sont d'une manière générale assez particulières avec des déviances par rapport à la langue standard et une certaine persistance dans la reprise des formes qui lui sont propres. Sa phonologie reste assez instable au début du corpus. La période cruciale de son développement segmental se situe entre 2;00 (acquisition de [l]) et 2;02 (acquisition de [r]). À partir de ce moment, les différentes positions phonologiques se stabilisent progressivement 3 . Le système en général se stabilise à 2;07 avec encore entre 5 et 18% de formes non standard jusqu'à 4;00. Au niveau morphologique, l'étude de l'expression du genre avec de jolies erreurs de l'enfant comme le fleur ou un poule (Leroy, 2010) et de l'expression de la possession (Leroy-Collombel & Morgenstern, 2012) montrent que l'enfant acquiert le langage en suivant parfois une « stratégie » analytique plutôt que syncrétique en début d'acquisition. Sa morpho-syntaxe reste donc très longtemps assez créative (à les pour aux à 2;03 ; elles sontaient pour elles étaient à 3;10 et 4;00 ; parce qu'il a pas envie les animaux à 2;09 ; le lapin s'assiya par terre à 4;00 en situation de pseudo-lecture). Parisse et al. (2013) ont montré que si l'enfant a d'abord une grande majorité de ce que les auteurs ont appelé des communicateurs dans ses productions (encore, voilà, non…), la répartition de ses catégories grammaticales est très rapidement proche de celle de l'adulte (avant 2;04). Parisse & Morgenstern (2012) ont également montré qu'Anaé référait très tôt au présent, au passé et au futur sans marque morphologique verbale puisque, jusqu'à 2 ans, elle n'emploie que le présent, l'impératif, des participes passés et des infinitifs. A partir de 2 ans, son système verbal se complexifie et s'y ajoute le passé composé, le futur périphrastique. Ce n'est que vers 3 ans que l'imparfait, le futur simple puis le subjonctif et le conditionnel deviennent productifs (Morgenstern & Parisse, 2012). Si jusqu'à 2;10, Anaé participe peu à la co-construction de récits initiés par sa mère, répondant de manière succincte et se montrant souvent prise par ses activités en cours, elle répond ensuite mieux aux sollicitations de sa mère et, après 3 ans, pourra proposer elle-même des séquences narratives en utilisant le passé simple (Leroy-Collombel, 2013).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Del Ré & Morgenstern, 2009 ;",
+          "offset_start": 167,
+          "offset_end": 196
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "Leroy, 2009)",
+          "offset_start": 196,
+          "offset_end": 208
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "(Leroy, 2010)",
+          "offset_start": 916,
+          "offset_end": 929
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "(Leroy-Collombel & Morgenstern, 2012)",
+          "offset_start": 966,
+          "offset_end": 1003
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "Parisse et al. (2013)",
+          "offset_start": 1390,
+          "offset_end": 1411
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Parisse & Morgenstern (2012)",
+          "offset_start": 1674,
+          "offset_end": 1702
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Morgenstern & Parisse, 2012)",
+          "offset_start": 2153,
+          "offset_end": 2182
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "(Leroy-Collombel, 2013)",
+          "offset_start": 2513,
+          "offset_end": 2536
+        }
+      ],
+      "head_section": "Caractéristiques principales du développement langagier d'Anaé"
+    },
+    {
+      "id": "p_17796f78",
+      "text": "Trois périodes se distinguent donc dans le développement linguistique d'Anaé synthétisées par Caët (2013). Période 1 jusqu'à 1;10 : elle a une expression extrêmement multimodale avec beaucoup de gestes de pointage et de négation. Elle produit d'abord de nombreux communicateurs en isolation puis principalement des mots lexicaux. Elle compte beaucoup sur sa mère pour initier les tours de parole et même pour répondre à ses propres questions. Elle semble donc mettre en place les bases de la communication dialogique sans prendre pleinement en charge son rôle d'énonciatrice. Période 2 jusqu'à 3;03 : le nombre de gestes diminue fortement, ses énoncés sont plus longs (LME environ à 3), son système verbal se complète et elle commence à utiliser des déterminants, des adjectifs, des pronoms. En fin de période, elle entre dans le récit et dans l'argumentation en partie co-construits avec sa mère. Période 3 à partir de 3;04 : elle entre dans la phrase complexe, la détermination nominale et verbale s'enrichissent et les gestes co-verbaux réapparaissent ce qui semble indiquer que le niveau verbal est mieux maîtrisé. Elle initie des récits et des descriptions plus fines et exprime davantage son positionnement co-énonciatif. C'est dans le contexte de la maîtrise progressive des outils linguistiques chez une enfant qui manifeste un style d'acquisition très créatif et productif assez tôt, source particulière d'écarts avec le langage adulte, que nous avons analysé les énoncés non standard de cette enfant.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Caractéristiques principales du développement langagier d'Anaé"
+    },
+    {
+      "id": "p_e5fc03b9",
+      "text": "Regardons dans un premier temps le pourcentage d'énoncés d'Anaé codés comme non standard en fonction de l'âge.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Les formes non standard de l'enfant"
+    },
+    {
+      "id": "p_da6a8c02",
+      "text": "Ces énoncés non standard peuvent effectivement l'être à différents niveaux linguistiques. Nous avons regardé la répartition de ces énoncés selon les 6 niveaux linguistiques suivants : phonologie, syntaxe, morphologie, sémantique, pragmatique et valeur de vérité (graphique 4).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Répartition des énoncés non standard dans les différents niveaux linguistiques"
+    },
+    {
+      "id": "p_6f7be9c3",
+      "text": "Graphique 4 : Répartition en pourcentage des énoncés non standard de l'enfant selon le niveau linguistique concerné La répartition des productions non standard évolue au cours du développement linguistique de l'enfant. A 1;09, l'enfant ne maîtrise pas encore la phonologie de sa langue et ses écarts phonologiques représentent plus de 66% de ses PNS. Ce taux descendra régulièrement jusqu'à 3;10 où il n'est que de 5,5% mais avec une remontée à 4;00 jusqu'à 18,7%. Au moment où les énoncés se complexifient et que la richesse lexicale augmente, Anaé recommence à faire des écarts sur le plan phonologique (50 énoncés non standard à 4;00 et 7 à 3;10). En revanche la proportion d'erreurs en syntaxe est assez stable, autour de 27%, avec une baisse relative à 4 ans (25%).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Répartition des énoncés non standard dans les différents niveaux linguistiques"
+    },
+    {
+      "id": "p_feb983d5",
+      "text": "La baisse des écarts au niveau de la phonologie se fait au profit entre autre de l'augmentation des énoncés dont la morphologie est non standard. Ces énoncés représentent un peu plus de 3% des PNS au début du corpus pour atteindre 25% à 4 ans, mais cette montée se fait en dents de scie. Leroy-Collombel (2010) et Leroy-Collombel & Morgenstern (2012) ont observé qu'Anaé peut se montrer très conservatrice dans ses PNS malgré, nous le verrons plus loin, les interventions de sa mère (comme par exemple pour le pluriel de cheval, où Anaé donne deux valeurs différentes à un cheval d'une part et à un chevaux d'autre part). Les PNS d'ordre sémantique font leur apparition petit à petit avec une véritable explosion à 3;10. En chiffre absolu, elles ne font qu'augmenter entre 1;09 et 4;00. De même pour la valeur de vérité, après son apparition à 1;09 et 2;03, le nombre de PNS de ce type se stabilise autour d'une dizaine par séance en chiffre absolu et relativement aux autres productions représente environ 7% avec une baisse à 4;00. Au niveau pragmatique, le pourcentage semble se stabiliser entre 2;09 et 4;00. Ainsi, l'enfant fait des productions incomplètes, inexactes voire « erronées » tout au long du corpus mais le nombre de productions standard augmente dans les sessions d'une heure. On peut donc se demander s'il est possible de repérer une coopération entre mère et enfant qui amènerait l'enfant à « normativiser » son langage afin d'être mieux compris et de produire des énoncés « conformes ». 4 Le traitement en dialogue des productions non standard Face à ces productions non standard de l'enfant, la mère est amenée à réagir de différentes façons : ignorance (absence de rectification), signalement (initiation de rectification), rectifications (directes ou indirectes). L'enfant peut aussi se rectifier elle-même. Dans le graphique 5, nous présentons la proportion d'énoncés non standard que la mère ou l'enfant ont traités (signalement, rectifications et autorectifications) ou non. Graphique 5 : Proportion d'énoncés non standard traités (T) ou non traités (NT) par la mère ou l'enfant La proportion d'énoncés non standard traités baisse régulièrement passant de plus de 45% à 1;09, ce qui est assez important, à moins de 21% avec une légère remontée à 4;00 (près de 23%). On passe donc d'un énoncé sur deux traité à un sur quatre ou cinq. Mais, nous le verrons, en 4.1 et 4.2, ce traitement diffère tant du point de vue quantitatif que qualitatif. Avant de regarder plus précisément de quelle façon la mère intervient, à quel moment et sous quelle forme, intéressons-nous aux cas les plus courants, c'est-à-dire aux énoncés non standard de l'enfant qui ne sont ni signalés par la mère comme posant problème ni rectifiés. Plusieurs cas de figure apparaissent : -La mère est tout simplement distraite par autre chose (un de ses autres enfants par exemple) et n'écoute pas vraiment sa fille. -La mère s'ajuste au niveau linguistique de l'enfant et n'a pas les mêmes exigences au fil du développement langagier de l'enfant. Ce qui est accepté à 1;09 ne l'est plus à 4;00. D'ailleurs, plusieurs erreurs perçues comme amusantes (compte tenu de l'âge de l'enfant) ne sont pas corrigées. -Dans les énoncés contenant plusieurs productions non standard, la mère ne corrige qu'une partie d'entre elles. -Il arrive également souvent qu'une PNS ait été corrigée ou signalée mais sans succès, l'enfant réitère alors tout ou partie de cette production qui cette fois ne sera pas relevée par la mère, notamment afin de ne pas nuire au bon déroulement du dialogue. -Nous avons en effet pu confirmer que la mère donne une grande importance à la communication et qu'elle ne cherche pas à faire des rectifications si cela entrave trop la continuité dialogique. En effet, quand la PNS de l'enfant n'entraîne aucun problème de compréhension, de vraisemblance ou de cohérence (par rapport à la structure même de l'énoncé ou par rapport à la connaissance du monde, à la valeur de vérité), la mère est beaucoup plus « tolérante » même en fin de corpus. Nous constatons que la mère d'Anaé est amenée à ne reprendre qu'une proportion modeste des productions non standard de sa fille. Mais alors pourquoi et comment intervient-elle ? Qu'est-ce qui est déclencheur de rectification ? Le traitement des productions de la fille par la mère, ses « stratégies » intentionnelles ou non, évoluent au fil du temps et nous le verrons aussi se diversifient selon le niveau linguistique concerné.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Répartition des énoncés non standard dans les différents niveaux linguistiques"
+    },
+    {
+      "id": "p_4f0bb0d8",
+      "text": "Le graphique 6 présente une catégorisation des processus qui permettent de revenir sur les PNS de l'enfant. De façon globale, ce graphique fait apparaître une préférence marquée à 1;09 pour les rectifications indirectes qui représentent 65% des interventions face à une PNS, préférence qui se maintiendra jusqu'à 3;10 où les initiations deviennent le mode d'intervention privilégié. La proportion d'auto-rectification est quant à elle en progression régulière à partir de 2;09.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Analyse des modes d'intervention sur les PNS"
+    },
+    {
+      "id": "p_09d9d822",
+      "text": "Graphique 6 : Répartition des types de traitement des énoncés non standard par séance La proportion de rectifications directes varie d'une séance à l'autre, oscillant de 26% à 1;09 à 14% à 4;00 avec un creux à 6% à 2;09. Ces rectifications directes représentent la correction par excellence. En les utilisant, la mère d'Anaé donne à la production non standard le statut « d'erreur ». Il est intéressant de noter que ces rectifications directes sont utilisées dès 1;09 mais n'interviennent que dans des situations particulières où le traitement de la rectification par l'enfant est facilité, l'effort portant uniquement sur la formulation ou la compréhension :",
+      "coords": [],
+      "refs": [],
+      "head_section": "Analyse des modes d'intervention sur les PNS"
+    },
+    {
+      "id": "p_3d38edc9",
+      "text": "-Dans des situations de livres avec jeu de dénomination où ne se pose aucun problème de clarification du référent partagé grâce au support apporté par les illustrations. -Quand l'enfant répète un terme que l'adulte vient juste de produire.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Analyse des modes d'intervention sur les PNS"
+    },
+    {
+      "id": "p_d273e861",
+      "text": "Quand un énoncé comporte plusieurs PNS, la plupart du temps une seule PNS sera rectifiée de façon directe (un seul aspect à la fois), les autres aspects pouvant être rectifiés indirectement, de façon incidente voire pas du tout.",
+      "coords": [],
+      "refs": [],
+      "head_section": "-"
+    },
+    {
+      "id": "p_2a0ae882",
+      "text": "A 2;09, seules les PNS portant sur la valeur de vérité sont corrigées de façon directe, tandis qu'à 3;04 plus de 50% des rectifications directes portent sur cette valeur (voir 4.2. pour plus de détails).",
+      "coords": [],
+      "refs": [],
+      "head_section": "-"
+    },
+    {
+      "id": "p_fd8e44c6",
+      "text": "A 4;00, toutes les rectifications directes concernent un problème de compréhension ou de contenu informatif quel que soit le niveau linguistique sur lequel porte la PNS, sauf pour les corrections de « les chevals » que la mère fait depuis plusieurs séances et qui a fait l'objet de séquences d'apprentissage explicite mais non concluant.",
+      "coords": [],
+      "refs": [],
+      "head_section": "-"
+    },
+    {
+      "id": "p_2f619e64",
+      "text": "Les rectifications indirectes consistent, suite à une PNS, à proposer le modèle cible dans l'interaction mais de façon intégrée au discours, sans signalement particulier (« embedded » chez Forrester, 2008). La volonté correctrice de la mère n'est pas toujours évaluable mais ce qui est certain c'est que l'enfant entend directement après son propre énoncé, une production juste, ce qui, par effet de contraste peut participer à une certaine prise de conscience, ou en tout cas, donne une saillance particulière à cet input. C'est le type de rectification privilégié par la mère. Ce procédé permet de continuer à favoriser le fond sur la forme tout en présentant le modèle de la bonne forme, sans interrompre l'interaction. Les rectifications indirectes sont d'ailleurs parfois accompagnées d'un acquiescement de la mère sur le fond mais avec une rectification indirecte de la forme :",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Forrester, 2008)",
+          "offset_start": 189,
+          "offset_end": 205
+        }
+      ],
+      "head_section": "-"
+    },
+    {
+      "id": "p_5c5a35cc",
+      "text": "Exemple 1 2;03 2378 *CHI: est mignonne ! PNS phono et synt 2;03 2379 %npho: e mijɔn 2;03 2380 *MOT: elle est mignonne ouais [=! rit] ! Rect. Ind de la phonologie et de la syntaxe + acquiescement Avec le développement langagier de l'enfant au fil des séances, on pourrait s'attendre à une baisse des rectifications indirectes. Le niveau langagier de l'enfant se rapprochant de la cible adulte, on pourrait en effet imaginer une exigence plus grande chez la mère et une volonté plus marquée de celle-ci, ce qui motiverait davantage de rectifications directes. C'est ce qu'ont effectivement observé Morgenstern et al. (2013) chez la mère de Madeleine qui se situe dans la « zone proximale de développement » (Vygotsky, 1978) quand il s'agit de rectifier la phonologie de sa fille. Mais dans le corpus d'Anaé, ce n'est qu'à 4;00 que les rectifications indirectes sont proportionnellement moins nombreuses que les directes, ces dernières étant moins importantes que les initiations. Ce n'est donc pas au profit des rectifications directes que les indirectes baissent mais au profit des initiations qui donnent une chance à l'enfant de revenir sur sa PNS. Quoi qu'il en soit, on peut remarquer au fur et à mesure que l'enfant grandit, que les séquences conversationnelles deviennent de véritables séances d'apprentissage comme on peut l'observer dans les exemples suivants. Exemple 2 248 *MOT: oui c'est à toi mais qu'est+ce+que c'est comme playmobil ? 249 %sit: CHI regarde les playmobil 250 *CHI: c'est [/] c'est le docteur des animaux . PNS phono + sém (niveau de langue) 251 %pho: se se lə dɔkətoeʁ dɛ zanimo 252 %act: CHI tripote la canne à pêche 253 *MOT: ça s'appelle comment le docteur des animaux ? Rect. Ind de la phonologie Init pour la sémantique 254 %sit: CHI repose la canne à pêche 255 *CHI: <ça s'appelle euh> [/] <ça s' appelle euh> [=! sourit] . Init non réussie 256 %pho: sa s apɛl əː sa s apɛl ə 257 %act: CHI regarde MOT 258 *MOT: le +..? 259 *CHI: le [=! écarquille les yeux] +..? 260 *MOT: +, vé(térinaire) +... Initiation avec amorçage 261 %com: MOT fournit l'ébauche du mot à CHI 262 *CHI: ++ (vé)térinaire [=! sourit] ! Initiation réussie 263 %pho: tɛʁinɛʁ 264 *MOT: très bien ! Félicitations La mère profite des jouets pour enseigner des termes lexicaux à sa fille. La stratégie est réussie localement puisque l'enfant répète bien le mot produit par la mère, vétérinaire. En cours de route, la mère a repris indirectement le problème phonologique dans doketeur et rectifié l'exactitude de l'étiquetage de l'enfant, ce qui était justement la motivation de la séquence. Selon le type de conduite que la mère souhaite induire chez l'enfant, elle rectifie ou non les PNS. Les rectifications sont donc dépendantes de la conduite du dialogue. Il y a là un travail explicite sur le vocabulaire de l'enfant. Exemple 3 482 *CHI: et [/] et+puis pas la renne . PNS morpho (genre) 483 %pho: e epɥi pa la ʁɛn 484 *CHI: que le père+noël . 485 %pho: kə lə pɛʁnɔɛl 486 *MOT: pas le r e n n e . Rectification directe 487 %com: MOT insiste sur « le » 488 *CHI: la renne . Non réussie, CHI refuse la 489 %pho: la ʁɛn rectification 490 *MOT: +< oui non le renne l' a(nimal) [/] l' animal c'est le renne . Rectif. directe étoffée 491 %com: MOT insiste sur « le » par une explication 492 *MOT: la reine c'est la femme du roi . 493 *MOT: c'est pas pareil . 494 *CHI: yy . 495 %pho: laʁan Semble non réussie 497 *MOT: hum . Signalement 498 *CHI: le renne . Séquence de correction 499 %pho: lə ʁɛn réussie 500 *MOT: 0 [=! rit] . 501 *MOT: donc on n'a pas mis le renne mais on a mis quoi ? Reprise de la mère pour fermer la parenthèse de la correction pédagogique Les initiations de rectifications permettent à la mère de signaler un problème dans l'énoncé de l'enfant : -soit de manière ouverte un peu indirecte : hum ?, -soit de manière plus précise : un quoi ? -soit en exprimant clairement par une expression négative que l'énoncé de l'enfant n'est pas juste, par exemple, « non » mais sans donner la cible attendue soit par le biais d'une amorce où la moitié de la cible est donnée dans l'attente d'une complétion par l'enfant (cf. exemple 2). Ces initiations passent de 6,7% des interventions de la mère ou l'enfant à 1;09 à près de 60% à 4 ans et sont majoritairement utilisées pour remédier à des problèmes d'ordre sémantique, pragmatique ou de valeur de vérité notamment à partir de 2;09. Dans la période précédente, les productions de l'enfant étant encore assez loin de la cible adulte, les initiations portent davantage sur la phonologie. On peut noter une assez bonne réussite de ces initiations dans le sens où à toutes les séances, la proportion d'initiations suivies d'un effet (auto-rectification par l'enfant ou tentative d'auto-rectification) est toujours au moins égale à celles des initiations sans effet. Parmi ces dernières, certaines sont suivies d'une rectification directe ou indirecte de la mère efficace ou non (Il s'agit ici de ce que nous avons appelé rectification initiée, « Rectif. Init » dans le graphique 6). Exemple 4 2096 *MOT: ah et là qu'est+ce+que c'est ? 2097 *CHI: une moustique . PNS morpho (genre ) + VV 2098 %pho: yn mustik 2099 *MOT: tu crois ? Init signalement sur la VV 2100 *CHI: hum . Init non réussie 2101 %pho: m 2102 *MOT: hum c'est un bourdon . Correction directe de la VV 2103 *CHI: un bourdon . Reprise de la correction 2104 %pho: oe ̃ buʁdɔ̃ 2105 *MOT: +< c'est un+peu comme une abeille . Explication Les auto-rectifications augmentent au fil du temps et indiquent que l'enfant internalise le traitement fait par l'adulte de ses PNS et s'écoute parler davantage. Elle n'a plus simplement l'intention de communiquer, mais également de le faire dans une langue de plus en plus proche de la norme adulte.",
+      "coords": [],
+      "refs": [],
+      "head_section": "-"
+    },
+    {
+      "id": "p_bda57c48",
+      "text": "En plus de ces auto-rectifications opérées directement par l'enfant elle-même, il peut y avoir des exemples qui suivent une sollicitation de la mère qui porte ainsi son attention sur la PNS de l'enfant. On peut considérer qu'il s'agit alors d'auto-rectifications avec co-construction dans le dialogue (comme dans l'exemple 4).",
+      "coords": [],
+      "refs": [],
+      "head_section": "-"
+    },
+    {
+      "id": "p_d094bc7d",
+      "text": "Ces différents procédés sont utilisés de manière différente selon le niveau linguistique sur lequel ils portent. Nous regardons le détail de ce traitement des PNS par niveau dans la partie suivante.",
+      "coords": [],
+      "refs": [],
+      "head_section": "-"
+    },
+    {
+      "id": "p_1b9b118b",
+      "text": "Comme nous l'avons vu plus haut (partie 3.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Traitement des PNS selon les niveaux linguistiques"
+    },
+    {
+      "id": "p_43225702",
+      "text": "3.), les productions non standard de l'enfant au niveau phonologique ne cessent de baisser (avec une remontée à 4;00) (cf. graphique 4). La façon de rectifier ou non évolue au fil des séances. Le graphique 7, ci-dessous, montre qu'à 1;09, près de 45% des PNS phonologiques sont traitées, par le biais majoritairement de rectifications indirectes (deux tiers d'entre elles) et directes (un tiers). A 4;00, seules 25% de ces PNS sont encore rectifiées, à part égale par la mère (indirectes et initiations) et l'enfant. Par ailleurs, l'enfant ne reprend que très peu les rectifications phonologiques de sa mère (à peine 9%). En revanche, près de 60% des initiations sont réussies, au moins partiellement, ce qui est encore plus marqué pour les premières séances : l'enfant prend en compte le discours de sa mère et cherche à s'améliorer, même si elle n'en a pas encore les capacités. La mère d'Anaé fait donc un travail d'étayage relativement important en apportant régulièrement la forme cible à l'enfant en début de corpus, tout comme Madeleine étudiée par Leroy et al. (2009). Au fur et à mesure que l'enfant grandit, celle-ci arrive à reformuler elle-même ses énoncés d'abord avec l'aide des initiations de sa mère, puis directement. Au niveau syntaxique, le nombre de PNS est assez stable proportionnellement au nombre total de productions non standard (27%). En revanche, la mère les rectifie de moins en moins, avec très peu de corrections directes et là encore on assiste à une augmentation des initiations réussies et des autorectifications : l'enfant prend en compte l'intervention de la mère également au niveau syntaxique. Graphique 7 : Répartition des procédés utilisés pour traiter (ou non) les PNS selon les niveaux linguistiques SHS Web of Conferences 8 (2014) DOI 10.1051/shsconf/20140801189 © aux auteurs, publié par EDP Sciences, 2014",
+      "coords": [],
+      "refs": [],
+      "head_section": "Traitement des PNS selon les niveaux linguistiques"
+    },
+    {
+      "id": "p_c5fa45fb",
+      "text": "Au fur et à mesure de l'apprentissage du langage, les productions non standard d'Anaé au niveau de la morphologie augmentent de façon relative mais aussi en chiffre absolu alors que la mère les rectifie de moins en moins mais de façon plus directe. A 1;09, 62% des PNS morphologiques sont rectifiées et uniquement de façon indirecte tandis que dans les séances suivantes la part de corrections directes augmente : elles représentent à 3;04 près de la moitié des rectifications de la mère, et à 4;00 il y a autant d'hétéro-que d'auto-rectifications. Au fur et à mesure que sa morphologie se complexifie, les PNS augmentent mais sont traitées davantage par la mère et l'enfant comme des « erreurs » qu'il faut corriger quand la situation permet de prendre le temps de le faire.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Congrès Mondial de Linguistique Française -CMLF 2014 SHS Web of Conferences"
+    },
+    {
+      "id": "p_db552806",
+      "text": "Les PNS de type sémantique sont en forte progression en chiffre absolu à partir de 3;04 et particulièrement sur les deux dernières séances. Relativement aux autres PNS, leur proportion augmente elle aussi à chaque séance mais avec un recul à 4;00. Et pourtant, si à 1;09 100% des PNS sémantiques sont rectifiées par la mère (autant de façon directe qu'indirecte), dès la séance suivante seules 25% sont rectifiées (et seulement indirectement) et à 4 ans seules 18% sont traitées par la mère, aux trois quarts par des initiations et pour un petit quart par des directes. L'enfant, quant à elle, s'auto-corrige à hauteur de 10% des erreurs sémantiques, sachant que c'est seulement la deuxième séance où interviennent ces autorectifications (pour la sémantique). Au fur et à mesure que le langage de l'enfant s'enrichit, sa mère lui laisse la possibilité d'explorer de nouveaux domaines sémantiques sans entraver ses tentatives de manière trop dense.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Congrès Mondial de Linguistique Française -CMLF 2014 SHS Web of Conferences"
+    },
+    {
+      "id": "p_32c03d1d",
+      "text": "Les PNS d'ordre pragmatique se développent au fil du temps (en dents de scie) pour atteindre 10% des énoncés non standard à 4 ans. Elles sont depuis le début assez fortement rectifiées: 80% à 1;09 et le sont encore à 50% à 4;00, dans l'ensemble de manière plus indirecte. Ces rectifications sont plutôt efficaces, car si l'on observe seulement 18% de reprises des corrections directes et indirectes, celles-ci sont vraiment abouties. Quand l'enfant en est capable, elle prend en compte la correction et atteint la cible adulte. C'est encore plus marqué pour les initiations qui aboutissent pour 54% d'entre elles à une production standard de l'enfant.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Congrès Mondial de Linguistique Française -CMLF 2014 SHS Web of Conferences"
+    },
+    {
+      "id": "p_6e142668",
+      "text": "Les PNS portant sur la valeur de vérité représentent, quant à elles, entre 1 et 8% des énoncés non standard, leur proportion est assez stable entre 2;09 et 4;00. C'est le type de PNS le plus corrigé (elles sont toutes rectifiées dans trois des six séances). C'est également le niveau linguistique qui est d'abord rectifié le plus directement pour ensuite être initié, on ne trouve quasiment aucune rectification indirecte. Cette stratégie de la mère se montre relativement efficace avec 45% de reprises des corrections. Mais si 30% d'initiations portant sur la valeur de vérité sont réussies, ce sont également ces initiations qui sont le plus refusées par l'enfant : 45% de refus. Cela met en valeur les problèmes locaux de compréhension entre Anaé et sa mère, chacune ayant à ce niveau-là sa propre représentation de la relation référentielle entre les objets et leur désignation.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Congrès Mondial de Linguistique Française -CMLF 2014 SHS Web of Conferences"
+    },
+    {
+      "id": "p_7df8906a",
+      "text": "Les PNS que nous avons codées dans cet article n'entraînent pas forcément de problèmes de compréhension, de vraisemblance ou de cohérence. Ainsi, le « doketeur » de l'exemple 2 n'empêche pas de comprendre le mot. Nous pensons que ce type de difficultés peut être particulièrement déclencheur d'interventions de la part de la mère. C'est pourquoi nous avons systématiquement codé ce type de PNS dans la séance 4;00. Nous constatons qu'elles sont en effet beaucoup plus rectifiées (même si ce n'est pas systématique) et de façon directe. Ainsi, à 4 ans, 22% sont rectifiées (dont 80% de rectifications directes) contre seulement 2,8% de rectifications pour les PNS n'entraînant pas ce type de problème. D'une manière générale, la mère d'Anaé, quand la situation le lui permet, rectifie de manière ciblée les PNS de sa fille, notamment quand les écarts avec la norme adulte entravent la compréhension. Plus le développement linguistique de l'enfant augmente et plus la mère cible les formes « imparfaites » de manière directe. Cependant, la cohérence des productions et leur place dans le dialogue semblent réellement privilégiées.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Congrès Mondial de Linguistique Française -CMLF 2014 SHS Web of Conferences"
+    },
+    {
+      "id": "p_66fe7c4f",
+      "text": "Le travail de rectification ou d'incitation à la reformulation de la mère se fait tout au long du corpus mais de manière majoritairement indirecte avec un ajustement constant au niveau linguistique de l'enfant et à ses intentions communicationnelles. En favorisant la rectification indirecte, la mère propose la cible adulte en écart avec la production non standard de l'enfant dans le contexte immédiat. Ce processus est couplé avec ce que nous avons appelé des initiations, qui permettent à la mère d'indiquer à sa fille les problèmes de forme ou de communication. L'ensemble de ces processus semble aider l'enfant à prendre progressivement conscience de ses PNS. Plus le langage de l'enfant se complexifie et moins elle rencontre de problème de communication : la mère peut alors cibler de manière beaucoup plus directe les PNS auxquelles elle donne alors le statut « d'erreurs » et qu'elle rectifie alors de manière explicite, notamment quand il s'agit de PNS d'ordre sémantique ou touchant à la valeur de vérité. L'enfant, quant à elle, suit plus en plus les initiations de sa mère et en vient à rectifier directement elle-même ses PNS, ce qui manifeste une réelle prise de conscience des écarts effectués par rapport soit à la langue de l'adulte, soit à la réussite de sa propre intention communicationnelle.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusion"
+    },
+    {
+      "id": "p_0fa4ad2f",
+      "text": "La mère joue donc dans cette dyade un rôle extrêmement subtil. Elle réagit en s'ajustant à la fois au développement linguistique de l'enfant, à la situation et bien sûr à la bonne conduite du dialogue. Il serait extrêmement fructueux d'utiliser ce type d'étude pour étayer des programmes de guidance parentale pour les enfants présentant des retards ou des troubles du langage, ou encore pour étoffer les pratiques d'enseignement de la langue chez les jeunes enfants, que ce soit pour la langue maternelle ou les langues étrangères. En milieu institutionnel, l'apprentissage se fait de manière très souvent explicite, or la rectification indirecte et les initiations pourraient dans certaines conditions donner de meilleurs résultats et faire davantage travailler une prise de conscience progressive et de plus en plus autonome des écarts contenus dans leurs productions non standard.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusion"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Graphique 1 :",
+      "type": "figure",
+      "desc": "pourcentage des énoncés non standard d'Anaé en fonction de son âge Comme le montre le graphique 1, jusqu'à 3;10 les énoncés non standard de l'enfant diminuent avec l'âge : on trouve 84% d'énoncés non standard à 1;09 et 25% à 3;10. Une petite remontée s'esquisse à 4;00. Dans un premier temps, les énoncés de l'enfant sont donc de plus en plus conformes aux énoncés adultes. Au moment où le langage de l'enfant devient plus complexe juste avant 4 ans, Anaé se remet à produire un pourcentage un peu plus élevé d'énoncés non standard. Le caractère plus complexe de son langage peut se mesurer de diverses façons. On constate (graphique 2) qu'à 4 ans, elle utilise 650 types de mots différents pour seulement 500 à 3;10. Il y a donc une explosion de la diversité lexicale. Par ailleurs (graphique 3), on dénombre pour Anaé 3584 mots durant l'heure d'enregistrement à 4 ans alors qu'elle en produisait 2889 à 3;10. La densité de parole durant l'enregistrement est donc beaucoup plus élevée que durant toutes les séances précédentes. Sa mère à l'inverse produit 1950 mots quand Anaé a 4 ans alors qu'à 3;10 elle en avait produit 4136. Il s'agit à 4 ans de la seule séance où la mère parle moins que sa fille durant l'enregistrement. Comme on peut le voir sur le graphique 3, la séance à 4;00 est particulière de ce point de vue. Graphique 2 : Richesse lexicale Graphique 3 : Nombre de mots par séance (nombre de mots différents) On constate qu'au moment où son langage se complexifie au niveau lexical, syntaxique, morphologique et discursif, Anaé se remet à produire davantage d'énoncés non standard.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_1",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 8.0,
+          "y": 85.44,
+          "width": 438.72,
+          "height": 385.44
+        }
+      ]
+    },
+    {
+      "id": "fig_2",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 13.0,
+          "y": 85.44,
+          "width": 501.6,
+          "height": 409.44
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "authors": [
+        "J Bernicot",
+        "A Salazar Orvig",
+        "E Veneziano"
+      ],
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Les reprises : dialogue, formes, fonctions et ontogenèse",
+      "journal": "La linguistique",
+      "volume": "42",
+      "issue": "2",
+      "page_start": "29",
+      "page_end": "50"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Child's Talk: Learning to Use Language",
+      "authors": "J Bruner",
+      "publication_date": "1983",
+      "year": 1983
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Référence à soi et à l'interlocuteur chez des enfants francophones et anglophones et leurs parents",
+      "authors": [
+        "W W Norton",
+        "Company Incorporated",
+        "S Caët"
+      ],
+      "publisher": "université Sorbonne Nouvelle-Paris",
+      "publication_date": "2013",
+      "year": 2013,
+      "notes": "Manuscrit non publié Thèse sous la direction de A"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Adult reformulations of child errors as negative evidence",
+      "authors": [
+        "M Chouinard",
+        "E Clark"
+      ],
+      "journal": "Journal of Child Language",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "30",
+      "issue": "3",
+      "page_start": "637",
+      "page_end": "669"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Enoncés enfantins et reformulations adultes dans l'acquisition du langage",
+      "authors": [
+        "E Clark",
+        "M Chouinard"
+      ],
+      "journal": "Langages",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "140",
+      "page_start": "9",
+      "page_end": "23"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "First language acquisition",
+      "authors": "E Clark",
+      "publisher": "Cambridge University Press",
+      "publication_date": "2003",
+      "year": 2003
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "La répétition et l'acquisition du langage",
+      "authors": "E Clark",
+      "journal": "La linguistique",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "42",
+      "issue": "2",
+      "page_start": "67",
+      "page_end": "80"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "To laugh or not to laugh: that is the question. Les premières manifestations de l'humour chez l'enfant",
+      "authors": [
+        "A Del Ré",
+        "A Morgenstern"
+      ],
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "10"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Reformulations et répétitions par les adultes du langage des enfants : comparaison de dialogues avec des enfants normaux et dysphasiques",
+      "authors": "G De Weck",
+      "journal": "Langages",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "140",
+      "page_start": "38",
+      "page_end": "67"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Feedback to first language learners: the role of repetitions and clarification questions",
+      "authors": [
+        "M Demetras",
+        "K Post",
+        "Nolan",
+        "C Snow"
+      ],
+      "journal": "Journal of Child Language",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "13",
+      "page_start": "275",
+      "page_end": "292"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "The Emergence of Self-Repair: A Case Study of One Child During the Early Preschool Years",
+      "authors": "Mike Forrester",
+      "journal": "Research on Language & Social Interaction",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "41",
+      "issue": "1",
+      "page_start": "99",
+      "page_end": "128"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Language identification in the limit",
+      "authors": "E Gold",
+      "journal": "Information and Control",
+      "publication_date": "1967",
+      "year": 1967,
+      "volume": "10",
+      "page_start": "447",
+      "page_end": "474"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Brown & Hanlon revisited: mothers' sensitivity to ungrammatical forms",
+      "authors": [
+        "K Hirsh-Pasek",
+        "R Treiman",
+        "M Schneiderman"
+      ],
+      "journal": "Journal of Child Language",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "11",
+      "page_start": "81",
+      "page_end": "88"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "La reformulation dans les interactions adulte-enfant : une analyse longitudinale de 1",
+      "authors": "M Leroy",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "06"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "authors": "Ans",
+      "journal": "Cahiers de praxématique",
+      "volume": "52",
+      "page_start": "59",
+      "page_end": "80"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "authors": "M Leroy-Collombel",
+      "publication_date": "2010",
+      "year": 2010
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Eveil de la conscience grammaticale chez un enfant français entre 18 mois et 3 ans",
+      "publisher": "Congrès Mondial de Linguistique Française"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Développement des compétences narratives : analyse longitudinale des récits d'un enfant entre 2 et 4 ans. A.N.A",
+      "authors": "M Leroy-Collombel",
+      "editors": ".E.",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "124",
+      "page_start": "247",
+      "page_end": "253"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Rising grammatical awareness in a French-speaking child from 18 months to 36 months: uses and misuses of possession markers",
+      "authors": [
+        "M Leroy-Collombel",
+        "A Morgenstern"
+      ],
+      "journal": "French Language Studies",
+      "publisher": "Cambridge University Press",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "22",
+      "issue": "1",
+      "page_start": "57",
+      "page_end": "75"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "The CHILDES Project: Tools for analyzing talk",
+      "authors": "B Macwhinney",
+      "publication_date": "2000",
+      "year": 2000,
+      "notes": "transcription format and programs"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "L'enfant dans la langue",
+      "authors": "A Morgenstern",
+      "publisher": "Presses de la Sorbonne Nouvelle",
+      "publication_date": "2009",
+      "year": 2009
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Constructing « basic » verbal constructions: a longitudinal study of the blossoming of constructions with six frequent verbs",
+      "authors": [
+        "A Morgenstern",
+        "C Parisse"
+      ],
+      "editors": "M. Bouveret & D. Le Gallois",
+      "publication_date": "2012",
+      "year": 2012,
+      "page_start": "127",
+      "page_end": "153",
+      "notes": "Constructions in French"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "i m'énève paque i m'énève : spécificité de l'explication verbale chez l'enfant entre 2 et 3 ans : une articulation modale",
+      "authors": [
+        "A Morgenstern",
+        "M Sekali"
+      ],
+      "editors": [
+        "C Hudelot",
+        "A Salazar Orvig",
+        "E Veneziano"
+      ],
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "56",
+      "page_start": "151",
+      "page_end": "167",
+      "notes": "Self-and other-repairs in child-adult interaction at the intersection of pragmatic abilities and language acquisition"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "On the organization of corrective exchanges in conversation",
+      "authors": "N Norrick",
+      "journal": "Journal of Pragmatics",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "16",
+      "page_start": "59",
+      "page_end": "83"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "The unfolding of the verbal temporal system in French children's speech between 18 and 36 months",
+      "authors": [
+        "C Parisse",
+        "A Morgenstern"
+      ],
+      "journal": "Journal of French Language Studies",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "22",
+      "page_start": "95",
+      "page_end": "114"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Development of form function pairings in the child's verbal system. Présenté à Journée inaugurale du projet PEPS « Statistique contextuelle pour les grammaires de constructions en linguistique de corpus",
+      "authors": [
+        "C Parisse",
+        "A Morgenstern",
+        "S De Pontonx"
+      ],
+      "publication_date": "2013",
+      "year": 2013
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "The contrast Theory of Negative Input",
+      "authors": "M Saxton",
+      "journal": "Journal of Child Language",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "24",
+      "page_start": "139",
+      "page_end": "161"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "The preference for self correction in the organization of repair in conversation",
+      "authors": [
+        "E Schegloff",
+        "G Jefferson",
+        "H Sacks"
+      ],
+      "journal": "Language",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "53",
+      "page_start": "361",
+      "page_end": "382"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "authors": "E Veneziano",
+      "publication_date": "1997",
+      "year": 1997
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Echanges conversationnels et acquisition première du langage",
+      "editors": [
+        "J Bernicot",
+        "A Trognon",
+        "J Caron-Pargue"
+      ],
+      "page_start": "91",
+      "page_end": "123"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "From one word to two words: repetition patterns on the way to structured speech",
+      "authors": [
+        "Nancy",
+        "P Veneziano",
+        "E Sinclair",
+        "H Berthoud",
+        "I"
+      ],
+      "journal": "Journal of Child language",
+      "publication_date": "1990",
+      "year": 1990,
+      "volume": "17",
+      "page_start": "633",
+      "page_end": "650"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Mind in society: The development of higher psychological processes",
+      "authors": "L Vygotsky",
+      "publisher": "Harvard University Press",
+      "publication_date": "1978",
+      "year": 1978
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Interaction and the development of mind",
+      "authors": "A Wootton",
+      "publisher": "Cambridge University Press",
+      "publication_date": "1997",
+      "year": 1997
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Une partie de ce corpus est disponible sous le nom de Paris Corpus sur le site Childes",
+      "urls": [
+        "http://childes.psy.cmu.edu/",
+        "http://childes.psy.cmu.edu/"
+      ]
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "e@fs code le fait que l'enfant a prononcé le phonème [e] et que nous l'avons codé comme étant un « filler » soit une voyelle préverbale utilisée à la place"
+    }
+  ]
+}

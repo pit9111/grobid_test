@@ -1,0 +1,1113 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "PlantCoopLab, coopérer avec les plantes pour une alimentation durable",
+    "authors": [
+      "Sylvie Pouteau",
+      "Aurélie Javelle",
+      "Sébastien Mouret",
+      "Nicole Pignier",
+      "Florence Pinton",
+      "Jocelyne Porcher"
+    ],
+    "doi": "10.1051/nss/2024028",
+    "hash": "649A18142DA077902F0008C70A301003",
+    "publication_date": "2024-09-03",
+    "publication_year": 2024,
+    "publisher": "EDP Sciences",
+    "journal": "Natures Sciences Sociétés",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "une alimentation durable.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_ce261a70",
+      "text": "Repenser notre relation avec la nature peine à être saisi comme un levier de la transition écologique 1 . Autant le statut des animaux dans les systèmes productifs fait l'objet de débats, autant la définition de la durabilité alimentaire n'implique aucune considération particulière pour les plantes. Le projet PlantCoopLab trouve son inspiration dans ce constat. Il fait sienne l'analyse des humanités environnementales qui, depuis presque deux décennies, mettent en avant la nécessité de revoir notre posture vis-à-vis de la nature (Schmidt et al., 2020). Elles appellent à renouveler notre regard et à intensifier nos relations concrètes avec la nature de façon appréciative et différenciée. Né en Australie, ce mouvement s'est rapidement répandu dans les pays anglo-saxons puis en Europe, donnant lieu à une revue dédiée et de nombreux ouvrages 2 . Un peu plus tôt, les éthiques environnementales, elles aussi apparues dans les nouveaux mondes, États-Unis et Australie, avaient cherché à repenser le statut de la nature et son « bon usage » (Larrère et Larrère, 1997). En France, ces réflexions de fond ont encore du mal à trouver leur place. De façon plus générale, la différenciation de la nature audelà de l'animal progresse très lentement.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "(Schmidt et al., 2020)",
+          "offset_start": 534,
+          "offset_end": 556
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "(Larrère et Larrère, 1997)",
+          "offset_start": 1045,
+          "offset_end": 1071
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_a7a9fd63",
+      "text": "Le XXI e siècle semble cependant amorcer un « tournant végétal », quoiqu'encore diffus, qui appelle à revisiter le statut et les représentations multiples des plantes. Cette évolution récente est source de nouveaux questionnements éthiques (Pouteau, 2014 ;Kallhoff et al., 2018 ;Hiernaux, 2021) et incite à suivre le parti des « humanités végétales » en examinant notre posture vis-à-vis de cette forme de vie (Ryan, 2012). En phase avec ces évolutions, le projet PlantCoopLab introduit cette interrogation au sein même des activités de production nourricière où se jouent majoritairement les relations avec les plantes. Ancré dans une démarche inter-et transdisciplinaire, son parti est de rapprocher des thématiques scientifiques émergentes et des acteurs de terrain qui visent à changer de modèle de travail avec la nature, notamment avec les plantes pour une alimentation plus durable. Dans cet aperçu, nous retraçons les apports qui ont structuré les premières avancées de PlantCoopLab 3 dans une optique de fédérer un réseau de travail élargi (Pouteau et al., 2022).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "(Pouteau, 2014 ;",
+          "offset_start": 240,
+          "offset_end": 256
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Kallhoff et al., 2018 ;",
+          "offset_start": 256,
+          "offset_end": 279
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Hiernaux, 2021)",
+          "offset_start": 279,
+          "offset_end": 294
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "(Ryan, 2012)",
+          "offset_start": 410,
+          "offset_end": 422
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Pouteau et al., 2022)",
+          "offset_start": 1049,
+          "offset_end": 1071
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_2ac4b3d4",
+      "text": "Considérer les plantes dans le contexte de l'agriculture et de l'alimentation L'avènement des productions végétales, initié au XIX e siècle et amplifié après la Seconde Guerre mondiale, est caractérisé par une logique utilitariste de fonctionnement industriel et d'optimisation technique dont sont exclus les questionnements sur le statut des plantes. Actuellement, même lorsqu'il s'agit d'infléchir ce régime productiviste et de mettre en avant des objectifs d'écologisation de l'agriculture, les êtres végétaux restent souvent assignés au rang d'objets, de services ou de simples matériaux, comme le montre par exemple un document d'orientation d'INRAE (Vilotte et al., 2016). Tout se passe comme si, dans la sphère productive, les rapports avec les plantes ne pouvaient être pensés que comme des relations fonctionnelles, instrumentales et utilitaires (Beltrame et al., 1980). La technicisation entretient par ailleurs l'idée d'une plantemachine (Bonneuil et Thomas, 2009 ;Gerber et Hiernaux, 2022).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "(Vilotte et al., 2016)",
+          "offset_start": 655,
+          "offset_end": 677
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "(Beltrame et al., 1980)",
+          "offset_start": 855,
+          "offset_end": 878
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "(Bonneuil et Thomas, 2009 ;",
+          "offset_start": 949,
+          "offset_end": 976
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "Gerber et Hiernaux, 2022)",
+          "offset_start": 976,
+          "offset_end": 1001
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_938ffdef",
+      "text": "Le même statut appliqué à l'animal est par contre de plus en plus contesté, certains allant jusqu'à condamner toute forme d'élevage et à exiger la « libération animale » (Porcher, 2011). Le rejet de la production animale au nom de la morale (Traïni, 2012) tend en contrepartie à justifier l'exploitation végétale comme un mal nécessaire pour notre survie. Le report de la production animale vers le végétal contribue à occulter les contraintes productives, qui continuent de s'exercer sur les plantes sans prise de recul, et la nécessaire complémentarité entre l'agriculture et l'élevage. Ces contraintes sont aussi accentuées par la recherche de nouvelles sources d'énergies renouvelables et de biomatériaux, qui envisage les plantes comme des ressources de substitution. Ainsi, le terme « protéines végétales » tend à devenir un critère d'alimentation durable, contribuant à assimiler toujours plus les plantes à des matériaux livrés à toutes les formes d'exploitation. À l'encontre de cette tendance, accorder une considération qualitative aux êtres végétaux peut-il infléchir les pratiques nécessaires pour fournir des nourritures durables ? Avec cette question, notre proposition est de considérer deux aspects : les plantes sont des êtres vivants au même titre que les animaux, bien que de façon différente (Pouteau, 2014) ; et la production de nourritures végétales découle d'interrelations entre elles et les humains, ce qui n'impose pas un rapport d'exploitation instrumental (Kazic, 2022). De multiples pratiques agroécologiques porteuses de nouvelles sensibilités explorent déjà cette voie. Ce mouvement multiforme inspire deux axes d'innovation. En premier, reconnaître que les plantes poursuivent un « bien » ou des intérêts qui leur sont propresque l'on peut traduire en termes de télos, d'épanouissement, de santé ou de bienêtre. En second, montrer comment le travail humain oeuvre avec et pour ce bien végétal, cela de façon profitable et non plus dégradante, c'est-à-dire avec des bénéfices réciproques. Notre fil conducteur est d'élargir la définition de la durabilité alimentaire en regardant les plantes comme des êtres dignes de considération et de relation, tout en faisant ressortir les compétences et savoirs pratiques qu'implique cette reconnaissance.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Porcher, 2011)",
+          "offset_start": 170,
+          "offset_end": 185
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Traïni, 2012)",
+          "offset_start": 241,
+          "offset_end": 255
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "(Pouteau, 2014)",
+          "offset_start": 1313,
+          "offset_end": 1328
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "(Kazic, 2022)",
+          "offset_start": 1485,
+          "offset_end": 1498
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_3c6d9076",
+      "text": "Changer de cadre : une entrée par le « travail » Raisons de s'intéresser aux relations de travail avec les plantes Aborder les relations avec les plantes sous l'angle du travail permet de revisiter à la fois leur statut et celui des pratiques humaines, ce qui présente plusieurs intérêts. Le premier est de s'interroger sur les différences de statut accordé aux plantes en Occident entre sphère privée et sphère productive. Du côté de la première et des loisirs, il existe une littérature abondante sur les relations sensibles, esthétiques, symboliques, morales ou spirituelles avec les plantes (Lieutaghi, 1983 ;Archambault, 2016 ;Kallhoff et Schörgenhumer, 2017 ;Odeh et Guy, 2017). Toute cette littérature tend à leur reconnaître une forme de subjectivité, cette tendance étant également soutenue par la (re)découverte des facultés végétales (sensibilité, communication, intelligence, etc.) au cours des deux dernières décennies (Hall, 2011 ;Mancuso et Viola, 2018 ;Tassin, 2016). Pourquoi cette reconnaissance de subjectivité ne pourrait-elle pas s'appliquer à la sphère productive ?",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "(Lieutaghi, 1983 ;",
+          "offset_start": 595,
+          "offset_end": 613
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "Archambault, 2016 ;",
+          "offset_start": 613,
+          "offset_end": 632
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "Kallhoff et Schörgenhumer, 2017 ;",
+          "offset_start": 632,
+          "offset_end": 665
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Odeh et Guy, 2017)",
+          "offset_start": 665,
+          "offset_end": 683
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Hall, 2011 ;",
+          "offset_start": 932,
+          "offset_end": 945
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "Mancuso et Viola, 2018 ;",
+          "offset_start": 945,
+          "offset_end": 969
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "Tassin, 2016)",
+          "offset_start": 969,
+          "offset_end": 982
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_34aa26c5",
+      "text": "Un second intérêt est de mettre l'accent sur la dimension active des relations dans l'exercice du travail. Cela permet d'objectiver la subjectivité élusive des plantes en reconnaissant qu'elles possèdent une forme d'activité, ou d'agir particulier, qui peut être dénommée « agentivité ». Comment définir cette agentivité végétale dans le contexte du travail ? À quelles conditions peut-on l'assimiler à une forme de travail de la part des plantes ? Un troisième intérêt est d'aborder la production nourricière en tant que résultat, non plus du seul travail humain, mais d'une « co-opération » des humains et des plantes, au sens où chacun opère selon ses dispositions propres. Qu'apporte l'idée de co-opération ainsi définie pour requalifier, d'un côté le travail agricole et, de l'autre, l'agentivité végétale, qui ensemble permettent de fournir des nourritures ? Un quatrième intérêt est de repenser l'évolution des productions végétales sous l'angle d'un rapport professionnel à la nature. C'est ce que Michèle Salmona (1986) traduit dans ses recherches sur le travail paysan par l'expression « travailleurs de la nature ». Une façon d'éclairer la crise de sens qui traverse le monde agricole est de mettre à l'épreuve la réduction de l'être humain au travail à une simple fonction productive, elle-même découlant d'une vision uniquement utilitariste de ce qui nous nourrit. La qualité de travailleur de la nature peut-elle contribuer à revaloriser des métiers de plus en plus déconsidérés au regard du « travail-capital » tel qu'il a été critiqué par André Gorz (2004[1988]) ? Enfin, un cinquième intérêt tient au fait que l'écologisation des pratiques agricoles, dans les politiques appelant à « l'agroécologie », est fondée sur une « mise au travail de la nature »ce dont témoigne le foisonnement de métaphores autour du « travail de la nature » (idées de s'inspirer des plantes, de « fonder des solutions sur la nature »). Cela implique de prendre en compte des pans entiers du travail, écartés ou ignorés jusqu'alors. L'idée de co-opérer ou de faire « avec » les plantes permet de décliner différentes visions de la durabilité dans des agricultures plurielles ; visions qui peuvent aller de la maîtrise du fonctionnement végétal (« faire [faire] ») à l'imitation des performances (« faire [comme] ») jusqu'au lâcher prise (« [laisser] faire »). À la marge des zones cultivées, les cueilleurs professionnels de plantes dites « sauvages » adoptent aussi diverses stratégies pour s'inscrire dans les dynamiques écologiques (Pinton, 2022). La reconnaissance d'une coopération humain/plante, telle que définie plus haut, peut-elle construire une nouvelle vision de la durabilité alimentaire ?",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "André Gorz (2004",
+          "offset_start": 1555,
+          "offset_end": 1571
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[1988]",
+          "offset_start": 1571,
+          "offset_end": 1577
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Pinton, 2022)",
+          "offset_start": 2528,
+          "offset_end": 2542
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_ab7ed82d",
+      "text": "Travail « vivant » : penser le travail humain et au-delà de l'humain La co-opération humain/plante amène à repenser conjointement le travail humain et son extension au-delà de l'humain. Nous privilégions pour cela l'idée de « travail vivant », en nous inspirant notamment de deux pensées : celle de Gorz (2004de Gorz ( [1988]]) qui le définit comme l'activité humaine de création et de coopération qui produit du savoir ; et celle de Christophe Dejours (2009) qui l'aborde dans le contexte de la clinique du travail en tant que psychodynamique du travail (PDT). Ce dernier se fonde sur le rapport vivant du sujet au travail, objectivé de façon manifeste dans la souffrance et le plaisir au travail. Le rapport vivant s'exprime dans l'écart entre le travail prescrit et le travail réel, ce que Dejours définit comme le « travailler ». Pour la PDT, le travail est là où les procédures ne sont pas. Travailler, c'est produire mais c'est aussi se construire et vivre ensemble. Cette construction/transformation de soi s'opère par le truchement de la reconnaissance au travail, qui conditionne aussi la santé au travail. Nous reviendrons sur cette dimension relationnelle du travail vivant, particulièrement importante dans les métiers du soin.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "de Gorz (2004",
+          "offset_start": 296,
+          "offset_end": 309
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "de Gorz ( [1988]]",
+          "offset_start": 309,
+          "offset_end": 326
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_810ff95b",
+      "text": "Quoique de manière paradoxale en première analyse, le recours à la PDT et à la problématique du travail se justifie dans notre réflexion par le succès de son extension aux animaux domestiques. Les travaux pionniers de Jocelyne Porcher et de son équipe, d'abord dans le cadre de l'ANR COW, ont démontré clairement que les animaux travaillent au sens où ils s'investissent subjectivement dans le travail et manifestent un « travailler » pour combler l'écart entre réel et prescrit (Mouret, 2018 ;Porcher, 2018). Dans le cas des plantes, cette démonstration est loin d'aller de soi. Nous ne pouvons préjuger d'emblée qu'elles ont un engagement subjectif ni même affirmer qu'elles « travaillent » effectivement. Néanmoins, la PDT peut nous aider à discerner différentes composantes de l'agentivité des plantes, laquelle exprime de facto une forme de subjectivité. La PDT permet aussi de s'interroger sur les impensés du travail avec elles puisque le « travailler » paysan repose nécessairement sur une interrelation avec des plantes vivantes, et non avec des matériaux.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "(Mouret, 2018 ;",
+          "offset_start": 479,
+          "offset_end": 494
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "Porcher, 2018)",
+          "offset_start": 494,
+          "offset_end": 508
+        }
+      ],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_090a859f",
+      "text": "Entre métaphore, spéculation et prisme : quel « travail » des plantes ?",
+      "coords": [],
+      "refs": [],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_a6a97598",
+      "text": "Pris littéralement, le travail des plantes peut conduire à une lecture anthropomorphique et spéculative en leur attribuant une quasi-personnalité. À l'inverse, il peut être interprété comme une réduction à un paramètre physique. Pour écarter ces deux écueils, nous précisons qu'en première approche, le terme « travail » signifie que la vie des plantes s'exerce par des activités qui mettent en oeuvre des puissances ou forces de croissance et de (ré)génération. Ce travail inclut le fait de se construire soi-même (croître ou « pousser »), de produire des biens et des services (fruits, biodiversité, etc.) et d'interagir avec d'autres (humains et autres êtres vivants). Il est donc possible de poser au moins par hypothèse l'existence d'un « travailler » végétal, c'est-à-dire une capacité propre d'ajustement à la co-opération agricole. Pour soutenir cette perspective, nous soulignons le besoin de définir les limites des métaphores : d'une part, de différencier le travailler potentiel des plantes de celui des animaux et des êtres humains ; d'autre part, de préciser la composante relationnelle du travailler, qui s'exprime dans la dynamique du soin.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Regards -Focus PlantCoopLab, coopérer avec les plantes pour une alimentation durable"
+    },
+    {
+      "id": "p_de5c1d67",
+      "text": "Le « travailler » des plantes doit amener à redécouvrir leurs spécificités, enjeu d'autant plus difficile que les systèmes de production ont été élaborés en les considérant selon le modèle théorique de l'animal, comme des êtres fermés, circonscrits dans l'espace et le temps, que l'on nourrit pour produire un résultat (Pouteau, 2014). Toutefois, « nourrir » une plante ne peut être que métaphorique puisqu'elle n'a pas de tractus digestif et qu'elle n'ingère pas de nourriture à proprement parler. Quand elle est « nourrie » par des nitrates d'origine synthétique, la plante peut donc être considérée comme un être hors-sol ; le sol étant lui aussi réduit à un simple support. Elle est alors conditionnée par un schéma zoocentré, qui l'inscrit dans un régime catabolique et lui impose une séparation vis-à-vis d'un « extérieur ». La plante n'est plus considérée comme un processus en croissance existant par les entrelacs avec son milieu, qui floutent les frontières entre dedans et dehors. Cet exemple illustre les difficultés à sortir des cadres posés depuis deux siècles par les sciences du végétal. Pour contourner ces difficultés et ne pas soumettre la définition du travailler végétal à celle du travailler animal, des redéfinitions sont nécessaires. Comment rendre compte du caractère ouvert des plantes, caractère spécifique par rapport aux animaux, au sein d'un lieu de production nourricière ? Comment concilier les différences de temporalités entre une plante en développement et des objectifs de production ? Le système racinaire peut-il garder son sens d'entrelacs avec le sol dans des cultures hors-sol, majoritaires dans le domaine des productions maraîchères ? Doit-on continuer de « nourrir » les plantes, et sous quelles conditions ?",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "(Pouteau, 2014)",
+          "offset_start": 319,
+          "offset_end": 334
+        }
+      ],
+      "head_section": "Dégager le travailler des plantes d'une surdétermination animale"
+    },
+    {
+      "id": "p_af7242e9",
+      "text": "Intégrer les dynamiques du soin : l'attention à l'autre et sa reconnaissance La composante relationnelle du travailler « avec » les plantes s'apparente à un rapport de soin dans ses dimensions pratiques et émotionnelles. Or, la dynamique professionnelle du soin n'a de sens qu'à condition que le patient soigné soit capable d'apporter une réponse au soignant. Dans le cas des plantes, l'idée de soin prodigué comme à un patient moral suppose donc d'admettre qu'elles répondent aux soins qu'on leur porte (Schörgenhumer, 2018). Ce présupposé justifie, par exemple, l'idée d'accueillir la part « sauvage » des plantes, laissant s'exprimer leur autonomie et leur agentivité propres (Javelle, 2020). L'attention, l'observation et la sensibilité sont alors mises au service d'une forme d'agir qui consiste à ajuster qualitativement l'intervention, dans une forme d'écoute, plutôt qu'à imposer des conditions contraignantes. Le soin incorpore aussi une volonté de non-puissance et de retenue, ce qui peut aller jusqu'à la notion de « non-travail », par exemple dans le cas du « non-labour » ou du nondésherbage de certains secteurs de culture. Dans le contexte productif, l'idée de « faire avec » ou de « laisser faire » rend ainsi disponible à la perception de ce qui est fait pour nous par les plantes de diverses manières. Par exemple, l'activité de régénération et de réparation végétales s'observe dans la restauration de sols sains par des intercultures autant que dans la capacité de repousse des plantes « spontanées » attendue par les cueilleurs professionnels. Pour ces derniers, une cueillette durable et responsable est entièrement conditionnée par cette capacité à coopérer de façon régénérative avec le vivant (Julliand et al., 2019).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Schörgenhumer, 2018)",
+          "offset_start": 504,
+          "offset_end": 525
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Javelle, 2020)",
+          "offset_start": 679,
+          "offset_end": 694
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Julliand et al., 2019)",
+          "offset_start": 1718,
+          "offset_end": 1741
+        }
+      ],
+      "head_section": "Dégager le travailler des plantes d'une surdétermination animale"
+    },
+    {
+      "id": "p_aa6f6fc0",
+      "text": "L'idée de soin de la nature, qui est aujourd'hui remise à l'honneur par les pratiques et préceptes de l'agroécologie et par les éthiques du care, était déjà présente dans les écrits d'André-Georges Haudricourt (1962). Dans un texte ethnobotanique bien connu, il écrit : « domestication des cultures et élevage des animaux provoquent des changements de relation vis-à-vis des animaux et des plantes ». Par contraste avec nos ancêtres, les chasseurscueilleurs, il précise que : « L'humain n'est plus prédateur et consommateur mais il assiste, protège, coexiste avec les espèces qu'il a domestiquées ». Il suggère alors de nouveaux rapports « très amicaux » et souligne que la diversité des mondes animaux et végétaux rend impossible l'équivalence qualitative des relations avec les uns et les autres. Ces relations sensibles et amicales nous semblent être un dénominateur important à prendre en compte dans l'écologisation des pratiques et la reconnaissance des spécificités du travailler paysan.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "Haudricourt (1962)",
+          "offset_start": 198,
+          "offset_end": 216
+        }
+      ],
+      "head_section": "Dégager le travailler des plantes d'une surdétermination animale"
+    },
+    {
+      "id": "p_7564ba4d",
+      "text": "La reconnaissance du travailler des plantes et de ce qu'elles produisent nous apparaît comme un des ressorts de notre réengagement responsable vis-à-vis des nourritures. Une des formes de reconnaissance envers elles pourrait s'exprimer par une juste appréciation des nourritures qu'elles nous offrent. Dans l'approche que nous proposons, le défi est de nous départir d'une interprétation mécaniste et fonctionnaliste, sans pour autant tomber dans le travers d'une lecture spéculative. Changer de posture implique d'analyser les pratiques de recherche autant que les cadres théoriques qui les soustendent. Pour pouvoir considérer le rapport à l'autre sans en faire un objet détaché de nous et jaugé à travers une grille disciplinaire, il nous paraît nécessaire d'accorder une plus grande importance à la façon d'observer les plantes et d'interagir avec elles. Pour cela, plusieurs changements méthodologiques sont nécessaires.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Changer de posture : des méthodologies fondées sur l'expérience"
+    },
+    {
+      "id": "p_9d98b0d2",
+      "text": "Une première nécessité est de pratiquer l'interdisciplinarité, qui permet de déplacer les frontières de l'observation et de chercher à rendre fongibles des grilles de compréhension qui ont été construites ; cela dans des démarches réductrices qui effacent la dimension naturelle des objets étudiés. Ainsi, considérer les plantes comme des objets techniques ne découle pas de leur nature, mais de notre intentionnalité instrumentale et utilitariste. De plus, selon les contextes et disciplines, les catégories utilisées n'ont souvent pas les mêmes contours. Par exemple, la catégorie de « déchet » peut être conçue comme une déperdition, un excédent ou une ressource. De même, la catégorie de « sauvage » peut correspondre à l'indompté (impropre à la culture), au non-amélioré (conforme au type d'origine) ou au naturel (inviolé par l'humain).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Changer de posture : des méthodologies fondées sur l'expérience"
+    },
+    {
+      "id": "p_ba2d9b03",
+      "text": "Une deuxième nécessité est de nous positionner dans les humanités végétales avec une base phénoménologique et sémiotique (Pignier, 2018 ;Javelle, 2020 ;Pouteau, 2020). Cette orientation invite à se départir de modèles a priori et à privilégier l'expérience et l'observation directe, sans interposer de théorie ou d'instrument d'analyse. Par exemple, revenir à des phénomènes simples tels que la germination ou la croissance d'une plante, la parole ou le geste d'un paysan. Chacun à sa manière, Goethe et Jacob von Uexküll ont illustré de façon paradigmatique comment il est possible de parvenir à une compréhension entièrement originale des plantes, pour l'un, et des animaux, pour l'autre, en s'attachant à l'observation attentive des activités, performances, mouvements ou agentivités de ces êtres vivants.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(Pignier, 2018 ;",
+          "offset_start": 121,
+          "offset_end": 137
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "Javelle, 2020 ;",
+          "offset_start": 137,
+          "offset_end": 152
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "Pouteau, 2020)",
+          "offset_start": 152,
+          "offset_end": 166
+        }
+      ],
+      "head_section": "Changer de posture : des méthodologies fondées sur l'expérience"
+    },
+    {
+      "id": "p_3205a43a",
+      "text": "Enfin, une troisième nécessité est de recourir à la transdisciplinarité, afin de composer avec différentes expériences, différentes sensibilités et différents savoirs situés. Concrètement, au cours de journées d'étudefoot_3 avec des praticiens engagés dans des pratiques d'écologisation en Nouvelle-Aquitaine, en Sologne et en Auvergne, nous avons examiné collectivement les spécificités du travail avec les plantes (Pouteau et al., 2022 ;2023). Bien loin de l'idée selon laquelle le travail serait une lutte contre la nature, certains praticiens envisagent leurs activités dans un rapport de coopération explicite. Beaucoup sont même réfractaires à l'emploi du terme « travail » qui évoque pour eux des situations de contrainte. Si les plantes travaillent, l'avis est alors que ce n'est pas à « pousse forcée », comme dans les formes de travail industrielles, où leur sont imposés des espaces-temps qui nécessitent en permanence des intrants. S'attachant à comprendre les facultés appréciatives des plantes, là où elles « se plaisent » le plus, la plupart de ces praticiens cherchent à conjuguer leur agir avec celui des plantes. Ainsi, des engrais verts sont semés pour enrichir le sol et favoriser les entrelacs de la plante avec son milieu, de façon qu'elle y pousse bien et puisse s'y épanouir. Si la pousse des haies est laissée libre, c'est dans des lieux compatibles aussi avec l'activité humaine et animale. De façon générale, un soin particulier est porté au lien que les plantes entretiennent avec les milieux où elles vivent. L'évocation d'une capacité à « se plaire » et à apporter des réponses positives aux soins prodigués par ces travailleurs de la terre rejoint la notion d'« épanouissement » qui est proposée dans le champ de l'éthique végétale (Kallhoff, 2014).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Pouteau et al., 2022 ;",
+          "offset_start": 416,
+          "offset_end": 439
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "2023)",
+          "offset_start": 439,
+          "offset_end": 444
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Kallhoff, 2014)",
+          "offset_start": 1763,
+          "offset_end": 1779
+        }
+      ],
+      "head_section": "Changer de posture : des méthodologies fondées sur l'expérience"
+    },
+    {
+      "id": "p_6a5fa693",
+      "text": "Le travail avec les plantes pour nous nourrir conduit à élargir la compréhension de ce travail ; cela en intégrant les composantes de relation à autrui et d'autoréalisation, qui sont mises en avant par la PDT utilisée comme référence de départ. S'interroger sur la place de l'être humain situé dans la nature implique de repenser la porosité entre vie domestique et travail. Cette porosité est jugée aliénante pour certains, car pouvant conduire à des formes de burn out, et émancipatrice pour d'autres car plus en phase avec les rythmes de la vie. Le travail avec les plantes demande à être qualifié comme un travail « autre », car il opère dans un rapport d'intégration au sein d'une trame relationnelle, en sollicitant une certaine continuité entre vie privée et vie sociale. Il nécessite de tisser des liens et des relations avec des autres, humains et non-humains, qui sont inscrits dans une demeure paysage, terroir, lieu, ambiance (Pignier, 2021). Cette trame relationnelle, nouée entre les autres et soi-même, repose sur le soin et la visée d'un « épanouissement » de la vie aussi bien humaine que végétale. Ce coépanouissement peut ainsi fournir une base pour comprendre la santé au travail. Il suppose de sortir de l'ombre ou de l'invisibilité l'activité fournie objectivement par les plantes, dans une imbrication de relations avec leur milieu et avec nous, afin de mieux apprécier ce qui les fait pousser et pourquoi elles consentent à le faire (Javelle et Pinton, 2023). Cela pourrait être la définition d'une « bonne » agriculture dans laquelle l'activité humaine d'affirmation et de coopération, créatrice de savoirs, trouverait sa plus juste expression. Les plantes nous invitent à ré-imaginer notre place dans la nature en nous fondant sur une « agroécologie vertueuse » (Pouteau, 2023). La suite de ce projet aura comme objectif d'enrichir cette lecture au cours de séminaires et d'ateliers transdisciplinaires impliquant des chercheurs et des praticiens.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Pignier, 2021)",
+          "offset_start": 938,
+          "offset_end": 953
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Javelle et Pinton, 2023)",
+          "offset_start": 1457,
+          "offset_end": 1482
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Pouteau, 2023)",
+          "offset_start": 1788,
+          "offset_end": 1803
+        }
+      ],
+      "head_section": "Perspectives : éclairer le travail invisible des plantes"
+    }
+  ],
+  "figures_and_tables": [],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Taking love seriously in human-plant relations in Mozambique: toward an anthropology of affective encounters",
+      "authors": "J Archambault",
+      "journal": "Cultural anthropology",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "31",
+      "issue": "2",
+      "page_start": "244",
+      "page_end": "271",
+      "doi": "10.14506/ca31.2.05",
+      "urls": [
+        "https://doi.org/10.14506/ca31.2",
+        "https://doi.org/10.14506/ca31.2"
+      ]
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Jardins. Maraîchers. Travail du maraîchage sur le littoral Est ou Ouest varois",
+      "authors": [
+        "G Beltrame",
+        "P Higelé",
+        "M Salmona"
+      ],
+      "publication_date": "1980",
+      "year": 1980,
+      "doi": "10.14506/ca31.2.05"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Gènes, pouvoir et profits. Recherche publique et régimes de production des savoirs de Mendel aux OGM",
+      "authors": [
+        "C Bonneuil",
+        "F Thomas"
+      ],
+      "publisher": "Quae",
+      "publication_date": "2009",
+      "year": 2009
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Travail vivant",
+      "authors": "C Dejours",
+      "publisher": "Payot",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "1"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Plants as machines: history, philosophy and practical consequences of an idea",
+      "authors": [
+        "S Gerber",
+        "Q Hiernaux"
+      ],
+      "journal": "Journal of agricultural and environmental ethics",
+      "publication_date": "2022",
+      "year": 2022,
+      "volume": "35",
+      "issue": "4",
+      "doi": "10.1007/s10806-021-09877-w",
+      "urls": [
+        "https://doi.org/10.1007/s10806-021-09877-w",
+        "https://doi.org/10.1007/s10806-021-09877-w"
+      ]
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "authors": "A Gorz",
+      "publication_date": "2004",
+      "year": 2004
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Métamorphoses du travail. Critique de la raison économique",
+      "publisher": "Gallimard",
+      "publication_date": "1988",
+      "year": 1988,
+      "notes": "re éd"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Plants as persons. A philosophical botany",
+      "authors": "M Hall",
+      "publisher": "Albany, SUNY Press",
+      "publication_date": "2011",
+      "year": 2011
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Domestication des animaux, culture des plantes et traitement d'autrui",
+      "authors": "A.-G Haudricourt",
+      "journal": "L'Homme",
+      "publication_date": "1962",
+      "year": 1962,
+      "volume": "2",
+      "issue": "1",
+      "page_start": "40",
+      "page_end": "50",
+      "doi": "10.3406/hom.1962.366448",
+      "urls": [
+        "https://doi.org/10.3406/hom.1962.366448",
+        "https://doi.org/10.3406/hom.1962.366448"
+      ]
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "The ethics of plant flourishing and agricultural ethics: theoretical distinctions and concrete recommendations in light of the environmental crisis",
+      "authors": "Q Hiernaux",
+      "journal": "Philosophies",
+      "publication_date": "2021",
+      "year": 2021,
+      "volume": "6",
+      "issue": "4",
+      "doi": "10.3390/philosophies6040091",
+      "urls": [
+        "https://doi.org/10.3390/philosophies6040091",
+        "https://doi.org/10.3390/philosophies6040091"
+      ]
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "L'acceptation de la part « sauvage » des plantes pour développer des systèmes maraîchers « diplomatiques",
+      "authors": "A Javelle",
+      "journal": "La pensée écologique",
+      "publication_date": "2020",
+      "year": 2020,
+      "volume": "6",
+      "issue": "2",
+      "page_start": "16",
+      "page_end": "26",
+      "doi": "10.3917/lpe.006.0016",
+      "urls": [
+        "https://doi.org/10.3917/lpe.006.0016",
+        "https://doi.org/10.3917/lpe.006.0016"
+      ]
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Altérités végétales et durabilité alimentaire : une approche par le travail",
+      "authors": [
+        "A Javelle",
+        "F Pinton"
+      ],
+      "publication_date": "2023",
+      "year": 2023,
+      "page_start": "12",
+      "page_end": "14",
+      "urls": [
+        "https://hal.inrae.fr/hal-04567671",
+        "https://hal.inrae.fr/hal-04567671"
+      ]
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Normaliser le sauvage : l'expérience française des cueilleurs professionnels",
+      "authors": [
+        "C Julliand",
+        "F Pinton",
+        "R Garreta",
+        "J.-P Lescure"
+      ],
+      "journal": "EchoGéo",
+      "publication_date": "2019",
+      "year": 2019,
+      "volume": "47",
+      "doi": "10.4000/echogeo.16987",
+      "urls": [
+        "https://doi.org/10.4000/echogeo.16987",
+        "https://doi.org/10.4000/echogeo.16987"
+      ]
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Plants in ethics: why flourishing deserves moral respect",
+      "authors": "A Kallhoff",
+      "journal": "Environmental values",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "23",
+      "issue": "6",
+      "page_start": "685",
+      "page_end": "700",
+      "urls": [
+        "http://www.jstor.org/stable/43695195",
+        "http://www.jstor.org/stable/43695195"
+      ]
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "The virtues of gardening: a relational account of environmental virtues",
+      "authors": [
+        "A Kallhoff",
+        "M Schörgenhumer"
+      ],
+      "journal": "Environmental ethics",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "39",
+      "issue": "2",
+      "page_start": "193",
+      "page_end": "210",
+      "doi": "10.5840/enviroethics2017121410",
+      "urls": [
+        "https://doi.org/10.5840/",
+        "https://doi.org/10.5840/"
+      ]
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "doi": "10.5840/enviroethics2017121410",
+      "identifiers": {
+        "monograph_identifiers_unknown": "enviroethics2017121410",
+        "biblstruct_identifiers_unknown": "enviroethics2017121410"
+      }
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Plant ethics. Concepts and applications",
+      "editors": [
+        "A Kallhoff",
+        "Paola Di",
+        "M Schörgenhumer"
+      ],
+      "publisher": "Routledge",
+      "publication_date": "2018",
+      "year": 2018
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Quand les plantes n'en font qu'à leur tête",
+      "authors": "D Kazic",
+      "publisher": "La Découverte",
+      "publication_date": "2022",
+      "year": 2022,
+      "notes": "Concevoir un monde sans production ni économie"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Du bon usage de la nature",
+      "authors": [
+        "C Larrère",
+        "R Larrère"
+      ],
+      "series": "Pour une philosophie de l'environnement",
+      "publisher": "Aubier",
+      "publication_date": "1997",
+      "year": 1997
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "L'ethnobotanique au péril du gazon",
+      "authors": "P Lieutaghi",
+      "journal": "Terrain. Anthropologie & sciences humaines",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "1",
+      "page_start": "4",
+      "page_end": "10",
+      "doi": "10.4000/terrain.2779",
+      "urls": [
+        "https://doi.org/10.4000/terrain.2779",
+        "https://doi.org/10.4000/terrain.2779"
+      ]
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "L'intelligence des plantes",
+      "authors": [
+        "S Mancuso",
+        "A Viola"
+      ],
+      "publisher": "Albin Michel",
+      "publication_date": "2018",
+      "year": 2018
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "authors": "S Pouteau",
+      "journal": "Nat. Sci. Soc"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Les chiens de patrouille de la police nationale : les gueules armées de la République",
+      "authors": "S Mouret",
+      "journal": "Sociologie du travail",
+      "publication_date": "2018",
+      "year": 2018,
+      "volume": "60",
+      "issue": "2",
+      "doi": "10.4000/sdt.2040",
+      "urls": [
+        "https://doi.org/10.4000/sdt.2040",
+        "https://doi.org/10.4000/sdt.2040"
+      ]
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Gardening for therapeutic people-plant interactions during long-duration space missions",
+      "authors": [
+        "R Odeh",
+        "C Guy"
+      ],
+      "journal": "Open agriculture",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "2",
+      "page_start": "1",
+      "page_end": "13",
+      "doi": "10.1515/opag-2017-0001",
+      "urls": [
+        "https://doi.org/10.1515/opag-2017-0001",
+        "https://doi.org/10.1515/opag-2017-0001"
+      ]
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "authors": "N Pignier",
+      "publication_date": "2018",
+      "year": 2018
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Quand le design coénonce avec le vivant",
+      "authors": "Écosémiotique Design",
+      "editors": [
+        "E Mitropoulou",
+        "N Pignier"
+      ],
+      "page_start": "57",
+      "page_end": "78"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Voyage en paysages nourriciers. Des paysans, des paysannes pour nous relier au vivant",
+      "authors": "N Pignier",
+      "journal": "Revue Dard-Dard",
+      "publication_date": "2021",
+      "year": 2021,
+      "volume": "5",
+      "page_start": "44",
+      "page_end": "51",
+      "doi": "10.3917/dard.005.0044",
+      "urls": [
+        "https://doi.org/10.3917/dard.005.0044",
+        "https://doi.org/10.3917/dard.005.0044"
+      ]
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Le développement de la cueillette de plantes sauvages sur le territoire français : conditions et enjeux de la durabilité",
+      "note_report_type": "FRB",
+      "authors": "F Pinton",
+      "publication_date": "2022",
+      "year": 2022,
+      "urls": [
+        "https://www.fondationbiodiversite.fr/le-developpement-de-la-cueillette-de-plantes-sauvages-sur-le-territoire-francais-conditions-et-enjeux-de-la-durabilite/",
+        "https://www.fondationbiodiversite.fr/le-developpement-de-la-cueillette-de-plantes-sauvages-sur-le-territoire-francais-conditions-et-enjeux-de-la-durabilite/"
+      ]
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Vivre avec les animaux. Une utopie pour le XXI e siècle",
+      "authors": "J Porcher",
+      "publisher": "La Découverte",
+      "publication_date": "2011",
+      "year": 2011
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "The of animal labor. A collaborative utopia",
+      "authors": "J Porcher",
+      "publisher": "Palgrave MacMillan",
+      "publication_date": "2018",
+      "year": 2018
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Beyond \"second animals\": making sense of plant ethics",
+      "authors": "S Pouteau",
+      "journal": "Journal of agricultural and environmental ethics",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "27",
+      "issue": "1",
+      "page_start": "1",
+      "page_end": "25",
+      "doi": "10.1007/s10806-013-9439-x",
+      "urls": [
+        "https://doi.org/10.1007/s10806-013-9439-x",
+        "https://doi.org/10.1007/s10806-013-9439-x"
+      ]
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Mouvement et monde des êtres ouverts. Vers une écologie de la représentation des plantes",
+      "authors": "S Pouteau",
+      "journal": "La pensée écologique",
+      "publication_date": "2020",
+      "year": 2020,
+      "volume": "6",
+      "page_start": "5",
+      "page_end": "15",
+      "doi": "10.3917/lpe.006.0005",
+      "urls": [
+        "https://doi.org/10.3917/lpe.006.0005",
+        "https://doi.org/10.3917/lpe.006.0005"
+      ]
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Plant-centered virtue ethics: a cross-talk between agroecology and ecosophy",
+      "authors": "S Pouteau",
+      "journal": "Philosophies",
+      "publication_date": "2023",
+      "year": 2023,
+      "volume": "8",
+      "issue": "5",
+      "doi": "10.3390/philosophies8050097",
+      "urls": [
+        "https://doi.org/10.3390/",
+        "https://doi.org/10.3390/"
+      ]
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "doi": "10.3390/philosophies8050097",
+      "identifiers": {
+        "monograph_identifiers_unknown": "philosophies8050097",
+        "biblstruct_identifiers_unknown": "philosophies8050097"
+      }
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Travail humain À Travail animal À Travail des « autres vivants",
+      "note_report_type": "Rapport de recherche",
+      "authors": [
+        "S Pouteau",
+        "A Javelle",
+        "S Mouret",
+        "N Pignier",
+        "F Pinton",
+        "J Porcher"
+      ],
+      "publication_date": "2022",
+      "year": 2022,
+      "urls": [
+        "https://hal.inrae.fr/hal-03566132",
+        "https://hal.inrae.fr/hal-03566132"
+      ]
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Les plantes au travail. Repenser l'activité végétale pour des nourritures durables",
+      "note_report_type": "Rapport de recherche",
+      "authors": [
+        "S Pouteau",
+        "A Javelle",
+        "R Melot",
+        "S Mouret",
+        "N Pignier",
+        "F Pinton",
+        "J Porcher"
+      ],
+      "publication_date": "2023",
+      "year": 2023,
+      "urls": [
+        "https://hal.inrae.fr/hal-04123500",
+        "https://hal.inrae.fr/hal-04123500"
+      ]
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Passive flora? Reconsidering nature's agency through human-plant studies (HPS)",
+      "authors": "J Ryan",
+      "journal": "Societies",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "2",
+      "issue": "3",
+      "page_start": "101",
+      "page_end": "121",
+      "doi": "10.3390/soc2030101",
+      "urls": [
+        "https://doi.org/10.3390/",
+        "https://doi.org/10.3390/"
+      ]
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "doi": "10.3390/soc2030101",
+      "identifiers": {
+        "monograph_identifiers_unknown": "soc2030101",
+        "biblstruct_identifiers_unknown": "soc2030101"
+      }
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Questions d'épistémologie, d'éthique et d'action/ formation sur le travail avec la nature et les travailleurs de la nature et du vivant. Communication au colloque Diversification des modèles de développement rural",
+      "authors": "M Salmona",
+      "publisher": "ministère de la Recherche",
+      "publication_date": "1986",
+      "year": 1986,
+      "page_start": "17",
+      "page_end": "18"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Environmental humanities: an emerging field of transdisciplinary research",
+      "authors": [
+        "M Schmidt",
+        "J Soentgen",
+        "H Zapf"
+      ],
+      "journal": "GAIA",
+      "publication_date": "2020",
+      "year": 2020,
+      "volume": "29",
+      "issue": "4",
+      "page_start": "225",
+      "page_end": "229",
+      "doi": "10.14512/gaia.29.4.6",
+      "urls": [
+        "https://doi.org/10.14512/gaia.29.4",
+        "https://doi.org/10.14512/gaia.29.4"
+      ]
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Caring for plants. Cultivating relational virtues",
+      "authors": "M Schörgenhumer",
+      "editors": [
+        "A Kallhoff",
+        "Paola Di",
+        "M Schörgenhumer"
+      ],
+      "publisher": "Routledge",
+      "publication_date": "2018",
+      "year": 2018,
+      "page_start": "110",
+      "page_end": "118",
+      "doi": "10.14512/gaia.29.4.6"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "À quoi pensent les plantes ?",
+      "authors": "J Tassin",
+      "editors": [
+        "Odile Jacob",
+        "C Traïni"
+      ],
+      "publication_date": "2012",
+      "year": 2012
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Entre dégoût et indignation morale. Sociogenèse d'une pratique militante",
+      "journal": "Revue française de science politique",
+      "volume": "62",
+      "issue": "4",
+      "page_start": "559",
+      "page_end": "581",
+      "doi": "10.3917/rfsp.624.0559",
+      "urls": [
+        "https://doi.org/10.3917/rfsp.624.0559",
+        "https://doi.org/10.3917/rfsp.624.0559"
+      ]
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Document d'orientation #Inra2025",
+      "authors": [
+        "O Vilotte",
+        "F Houllier",
+        "P Mauguin",
+        "C Ronceray",
+        "C Cherbut",
+        "H Guyomard",
+        "C Huyghe",
+        "J.-F Soussana",
+        "P Chemineau",
+        "F Marty",
+        "Le Gall",
+        "O"
+      ],
+      "publisher": "Inra",
+      "publication_date": "2016",
+      "year": 2016,
+      "doi": "10.15454/1.4821335498627292E12",
+      "urls": [
+        "https://dx.doi.org/10.15454/1.4821335498627292E12",
+        "https://dx.doi.org/10.15454/1.4821335498627292E12"
+      ]
+    }
+  ]
+}

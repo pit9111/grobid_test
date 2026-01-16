@@ -1,0 +1,287 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Confirmation de la présence en France de la fourmi parasite Bothriomyrmex communista Santschi, 1919 (Hymenoptera : Formicidae)",
+    "authors": [
+      "Laurent Colindre",
+      "Christophe Galkowski"
+    ],
+    "doi": "10.47446/osmia11.2",
+    "hash": "DFBC5359FBA4EF5E17F9A2A501125243",
+    "publication_date": "2023-01-08",
+    "publication_year": 2023,
+    "publisher": "Observatoire des Abeilles",
+    "journal": "Osmia",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "que la source soit explicitement citée.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_4a4cdccf",
+      "text": "Les espèces du genre Bothriomyrmex, de la sous-famille des Dolichoderinae FOREL, 1878, sont des parasites sociaux temporaires peu communs, ciblant le genre Tapinoma. À l'essaimage, la reine Bothriomyrmex cherche à s'introduire dans le nid d'une espèce de Tapinoma pour atteindre et tuer la reine, puis elle fait élever sa descendance par les ouvrièreshôtes. La colonie deviendra indépendante une fois que l'ensemble des ouvrières-hôtes auront disparues (fin de vie ou prédation) (SEIFERT, 2012(SEIFERT, , 2018)).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(SEIFERT, 2012",
+          "offset_start": 479,
+          "offset_end": 493
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(SEIFERT, , 2018))",
+          "offset_start": 493,
+          "offset_end": 511
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_f92ba8c4",
+      "text": "Depuis le début du siècle dernier, la littérature restait pour le moins confuse sur ces espèces de fourmis (SANTSCHI, 1919 ;EMERY, 1925). Il faudra attendre la révision de SEIFERT en 2012 pour lever beaucoup d'ambiguïtés sur les espèces du genre en Europe et rétablir les identifications actuellement connues en France sous le nom de B. communista, comme étant en réalité B. corsicus.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(SANTSCHI, 1919 ;",
+          "offset_start": 107,
+          "offset_end": 124
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "EMERY, 1925)",
+          "offset_start": 124,
+          "offset_end": 136
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_8e4a7178",
+      "text": "En France métropolitaine, deux espèces sont actuellement connues de manière avérée : B. meridionalis (ROGER, 1863), uniquement localisée autour de l'arc Méditerranéen, et B. corsicus SANTSCHI, 1923, qui semble quant à elle présente dans les deux tiers sud du pays, Corse incluse. Les découvertes les plus septentrionales sont observées dans les départements de la Haute-Saône (70) ou de la Vienne (86) (ANTAREA, 2021).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Méditerranéen, et B. corsicus SANTSCHI, 1923",
+          "offset_start": 153,
+          "offset_end": 197
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_116813f0",
+      "text": "On peut noter que SEIFERT signale cependant, dès 2012, la présence de B. communista en France en trois endroits (Corse, Saint-Michel-l'Observatoire dans les Alpes-de-Haute-Provence et Mauroux dans le Lot). Néanmoins, il se trouve, d'une part, que des reines prélevées en même temps que les ouvrières (par C. GALKOWSKI) dans la colonie située à Mauroux (46) sont clairement des reines de B. corsicus en suivant la clé proposée par SEIFERT (2012) et, d'autre part, que les spécimens corses sont considérés comme douteux sur le site AntMaps (1) (JANICKI et al., 2016 ;GUÉNARD et al., 2017). Il ne resterait alors, de toutes les données de présence française de B. communista citées par SEIFERT, que la mention de Saint-Michel (04) qui demeurerait valide, sachant qu'elle repose sur deux ouvrières en mauvais état… Autant dire que la présence de B. communista en France méritait une confirmation.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(JANICKI et al., 2016 ;",
+          "offset_start": 542,
+          "offset_end": 565
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "GUÉNARD et al., 2017)",
+          "offset_start": 565,
+          "offset_end": 586
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_d6e00557",
+      "text": "(1) https://antmaps.org/?mode=species&species=Bothriomyrmex.communista [accessed 31 December 2021]",
+      "coords": [],
+      "refs": [],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_503751e8",
+      "text": "Les recherches ont été menées par le premier auteur courant juillet 2021 dans le cadre de l'étude des fourmis de France portée par l'association AntArea (https://antarea.fr/). Deux sites localisés dans les Alpes de Haute-Provence (04) sont ici concernés :  l'un dans les Baronnies provençales (1) sur la commune de Mison-les-Armands, visité le 13.VII.2021 [44,282° ; 5,835°, 705 m] ;  et l'autre dans la partie nord des Préalpes de Digne, au nord-est de Sisteron (2), sur la commune de Saint-Geniez, visité le 15.VII.2021 [44,239° ; 6,038°, 1106 m]. Site 1. Mison-les-Armands (04) Un échantillon d'ouvrières est collecté sous une pierre (d'environ 25 cm de diamètre) dans un habitat constitué d'une prairie thermophile, bordée de chênes et de pins (figure 1). Le sol est jonché de nombreuses pierres. L'absence totale de Tapinoma suggère l'indépendance d'un nid mâture. En effet, les ouvrières Bothriomyrmex se reconnaissent sur le terrain par leur couleur brunâtre beaucoup plus claire que leurs hôtes. Soulignons le comportement de la colonie : au soulèvement de la pierre, les ouvrières éparpillées se sont enfuies lentement tout en se regroupant pour former un amas dense, attitude qui n'avait pas échappé à SANTSCHI décrivant jadis une scène analogue (SANTSCHI, 1919). Un nid de Solenopsis fugax (LATREILLE, 1798) était également présent sous la pierre mais éloigné et sans contact visible avec le nid de Bothriomyrmex. Site 2. Saint-Geniez (04) Une femelle alate posée sur un affleurement rocheux dans un milieu forestier ouvert de moyenne altitude à essence mixte assez similaire à Mison-les-Armands (avec une prédominance de chênes et de pins) a été prélevée à Saint-Geniez (04). Le contrôle de la litière et des pierres environnantes n'a malheureusement pas révélé d'autres individus. Figure 1. Site de Mison-les-Armands (04) où un nid de Bothriomyrmex communista a été découvert sous la pierre en bas à droite de l'image. Cliché L. COLINDRE RÉSULTATS La détermination des espèces du genre Bothriomyrmex EMERY, 1869 est délicate et nécessite l'utilisation d'indices biométriques. Les principales mesures définies par SEIFERT (2012) utiles pour l'identification sont rappelées dans l'encart ci-contre. Les mesures ont été réalisées sur les spécimens récoltés à l'aide d'une loupe binoculaire munie d'un oculaire biométrique (grossissement × 100). Les résultats sont présentés dans les tableaux ci-après (tableaux I-II) et confirment l'identification de B. communista (figure 2). Encart. Quelques mesures employées par SEIFERT (20212). CS. Taille de la tête : moyenne arithmétique de la longueur et de la largeur de la tête. ClyW. Largeur maximale du clypeus, la tête vue de face. SL. Longueur maximale du scape antennaire (moyenne des deux scapes pour chaque individu). PoOc. Distance post-oculaire : distance entre le bord supérieur de l'oeil et la marge postérieure de la tête. EYE. Taille de l'oeil : moyenne arithmétique de la longueur du grand et du petit diamètre de l'oeil composé. La moyenne des deux yeux est calculée. Tableau I. Comparaison d'indices biométriques des reines des trois espèces de Bothriomyrmex (d'après SEIFERT, 2012) et des spécimens récoltés à Mison-les-Armands (04). Bothriomyrmex meridionalis Bothriomyrmex corsicus Bothriomyrmex communista Moyennes obtenues sur les ouvrières de Mison-les-Armands (n = 6) ClyW / CS 0,803-0,826 0,736-0,771 0,773-0,820 0,783 PoOc / CL 0,467-0,472 0,428-0,461 0,421-0,465 0,435 EYE / CS 0,134-0,146 0,162-0,186 0,144-0,179 0,148 Tableau II. Comparaison d'indices biométriques des reines des trois espèces de Bothriomyrmex (d'après SEIFERT, 2012) et du spécimen récolté à Saint-Geniez (04). Bothriomyrmex meridionalis Bothriomyrmex corsicus Bothriomyrmex communista Femelle ailée de Saint-Geniez (n = 1) CS 726-730 693-762 615-660 630 ClyW / CS 0,718-0,734 0,636-0,683 0,697-0,742 0,705 SL / CS 1,016-1,041 0,876-0,949 0,881-0,948 0,890 Figure 2. Ouvrière de Bothriomyrmex communista. À gauche : habitus en profil gauche. À droite : détail de la tête, vue de face. Cliché E. ORTEGA (CASENT0281572, AntWeb.org) CONCLUSION L'espèce B. communista est largement répartie en Europe de l'Est (SEIFERT, 2018) mais sa localisation reste encore largement à préciser en Europe de l'Ouest. Elle n'a été, par exemple, que récemment identifiée dans la Péninsule ibérique (SÁNCHEZ-GARCÍA et al., 2017). En France, il s'agit là des deux premières mentions avérées de l'espèce suite à la récente révision du genre initiée par SEIFERT en 2012. Des recherches ciblées, dans les habitats riches en Tapinoma, plus propices pendant la période d'essaimage située entre juin et juillet, permettront très certainement de retrouver ce parasite dans d'autres régions de l'Hexagone.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CONDITION DES RÉCOLTES ET MATÉRIEL ÉTUDIÉ"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 2.0,
+          "y": 56.7,
+          "width": 404.91,
+          "height": 481.0
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Répartition > Espèces. AntArea. Étude, identification, répartition, localisation des fourmis françaises métropolitaines. Site internet",
+      "publisher": "Saint-Gély-du-Fesc",
+      "urls": [
+        "http://antarea.fr/fourmi/?repartition/repertition-especes.html",
+        "http://antarea.fr/fourmi/?repartition/repertition-especes.html"
+      ]
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "The Global Ant Biodiversity Informatics (GABI) database: a synthesis of ant species geographic distributions",
+      "authors": [
+        "B Guénard",
+        "M Weiser",
+        "K Gomez",
+        "N Narula",
+        "E Economo"
+      ],
+      "journal": "Myrmecological News",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "24",
+      "page_start": "83",
+      "page_end": "89",
+      "doi": "10.25849/myrmecol.news_024:083",
+      "urls": [
+        "https://doi.org/10.25849/myrmecol.news_024:083",
+        "https://doi.org/10.25849/myrmecol.news_024:083"
+      ]
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Les espèces européennes et orientales du genre Bothriomyrmex",
+      "authors": "C Emery",
+      "journal": "Bulletin de la Société Vaudoise des Sciences Naturelles",
+      "publication_date": "1925",
+      "year": 1925,
+      "volume": "56",
+      "page_start": "5",
+      "page_end": "22",
+      "doi": "10.5281/zenodo.25563",
+      "urls": [
+        "https://doi.org/10.5281/zenodo.25563",
+        "https://doi.org/10.5281/zenodo.25563"
+      ]
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Visualizing and interacting with large-volume biodiversity data using client-server web-mapping applications: The design and implementation of antmaps.org",
+      "authors": [
+        "J Janicki",
+        "N Narula",
+        "M Ziegler",
+        "B Guénard",
+        "E Economo"
+      ],
+      "journal": "Ecological Informatics",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "32",
+      "page_start": "185",
+      "page_end": "193",
+      "doi": "10.1016/j.ecoinf.2016.02.006",
+      "urls": [
+        "https://doi.org/10.1016/j.ecoinf.2016.02.006",
+        "https://doi.org/10.1016/j.ecoinf.2016.02.006"
+      ]
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "authors": [
+        "D Sánchez-García",
+        "X Espadaler"
+      ],
+      "publication_date": "2017",
+      "year": 2017
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Una nueva especie parásita social para la Península ibérica. Bothriomyrmex communista SANTSCHI",
+      "journal": "Iberomyrmex",
+      "publication_date": "1919",
+      "year": 1919,
+      "volume": "9",
+      "page_start": "11",
+      "page_end": "13",
+      "notes": "Hymenoptera: Formicidae) en España",
+      "urls": [
+        "n_Spain",
+        "n_Spain"
+      ]
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "authors": "F Santschi",
+      "publication_date": "1919",
+      "year": 1919
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Fourmis du genre Bothriomyrmex EMERY (Systématique et moeurs)",
+      "journal": "Revue Zoologique Africaine",
+      "volume": "7",
+      "issue": "3",
+      "page_start": "201",
+      "page_end": "224",
+      "doi": "10.5281/zenodo.14226",
+      "urls": [
+        "https://doi.org/10.5281/zenodo.14226",
+        "https://doi.org/10.5281/zenodo.14226"
+      ]
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "A review of the West Palaearctic species of the ant genus Bothriomyrmex Emery, 1869 (Hymenoptera: Formicidae)",
+      "authors": "B Seifert",
+      "journal": "Myrmecological News",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "17",
+      "page_start": "91",
+      "page_end": "104",
+      "urls": [
+        "https://myrmecologicalnews.org/cms/index.php?option=com_content&view=category&id=549&Itemid=361",
+        "https://myrmecologicalnews.org/cms/index.php?option=com_content&view=category&id=549&Itemid=361"
+      ]
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "The ants of Central and North Europe",
+      "authors": "B Seifert",
+      "publication_date": "2018",
+      "year": 2018,
+      "pages": "408"
+    }
+  ]
+}
